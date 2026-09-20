@@ -2,7 +2,7 @@
 Task 7 — Reciprocal Rank Fusion.
 
 RRF gộp nhiều bảng xếp hạng mà không cộng trực tiếp cosine score với BM25
-score. Công thức: RRF(d) = sum(1 / (k + rank)), rank bắt đầu từ 1.
+score. Công thức: RRF(d) = sum(1 / (k + rank)), rank bắt đầu 1.từ 
 
 Lưu ý: RRF score chỉ phản ánh thứ hạng, không dùng để quyết định fallback.
 
