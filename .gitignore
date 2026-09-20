@@ -52,6 +52,11 @@ pageindex_pdfs/
 .vscode/
 .idea/
 
+# Vector store & caches
+chroma_db/
+.chroma/
+.pageindex_cache.json
+
 # OS
 .DS_Store
 Thumbs.db
