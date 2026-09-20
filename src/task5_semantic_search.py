@@ -10,30 +10,34 @@ from .task4_chunking_indexing import embed_texts, get_collection
 
 def semantic_search(query: str, top_k: int = 10) -> list[dict]:
     """Trả về dense SearchResult theo score giảm dần."""
-    # TODO: Implement semantic search.
-    #
-    # query_vector = embed_texts([query])[0]
-    # response = get_collection().query(
-    #     query_embeddings=[query_vector],
-    #     n_results=top_k,
-    #     include=["documents", "metadatas", "distances"],
-    # )
-    # results = []
-    # for item_id, content, metadata, distance in zip(
-    #     response["ids"][0],
-    #     response["documents"][0],
-    #     response["metadatas"][0],
-    #     response["distances"][0],
-    # ):
-    #     results.append({
-    #         "id": item_id,
-    #         "content": content,
-    #         "score": max(0.0, 1.0 - distance),
-    #         "metadata": metadata,
-    #         "retrieval_method": "dense",
-    #     })
-    # return sorted(results, key=lambda item: item["score"], reverse=True)[:top_k]
-    raise NotImplementedError("Implement semantic_search")
+    query_vectors = embed_texts([query])
+    if not query_vectors:
+        return []
+
+    collection = get_collection()
+    response = collection.query(
+        query_embeddings=query_vectors,
+        n_results=top_k,
+        include=["documents", "metadatas", "distances"],
+    )
+
+    results: list[dict] = []
+    ids = response.get("ids", [[]])[0]
+    docs = response.get("documents", [[]])[0]
+    metas = response.get("metadatas", [[]])[0]
+    distances = response.get("distances", [[]])[0]
+
+    for item_id, content, metadata, distance in zip(ids, docs, metas, distances):
+        results.append({
+            "id": item_id,
+            "content": content,
+            "score": float(max(0.0, 1.0 - distance)),
+            "metadata": metadata,
+            "retrieval_method": "dense",
+        })
+
+    results.sort(key=lambda item: item["score"], reverse=True)
+    return results[:top_k]
 
 
 if __name__ == "__main__":

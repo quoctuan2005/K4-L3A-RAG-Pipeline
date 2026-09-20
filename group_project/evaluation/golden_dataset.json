@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Theo Nghị quyết 08-NQ/TW của Bộ Chính trị, mục tiêu đến năm 2020 ngành du lịch Việt Nam thu hút bao nhiêu lượt khách?",
+    "expected_answer": "Đến năm 2020, ngành du lịch thu hút được 17 - 20 triệu lượt khách du lịch quốc tế và 82 triệu lượt khách du lịch nội địa, đóng góp trên 10% GDP, tổng thu từ khách du lịch đạt 35 tỷ USD.",
+    "expected_context": "Thu hút được 17 - 20 triệu lượt khách du lịch quốc tế, 82 triệu lượt khách du lịch nội địa; đóng góp trên 10% GDP; tổng thu từ khách du lịch đạt 35 tỷ USD."
+  },
+  {
+    "question": "Quan điểm chỉ đạo cốt lõi của Bộ Chính trị về vị trí của ngành du lịch trong Nghị quyết 08-NQ/TW là gì?",
+    "expected_answer": "Phát triển du lịch trở thành ngành kinh tế mũi nhọn là định hướng chiến lược quan trọng để phát triển đất nước, tạo động lực thúc đẩy sự phát triển của các ngành, lĩnh vực khác.",
+    "expected_context": "Phát triển du lịch trở thành ngành kinh tế mũi nhọn là định hướng chiến lược quan trọng để phát triển đất nước, tạo động lực thúc đẩy sự phát triển của các ngành, lĩnh vực khác; là trọng tâm trong tái cơ cấu kinh tế."
+  },
+  {
+    "question": "Trong Công văn 1560/VPCP-KGVX, Phó Thủ tướng Vũ Đức Đam đã chỉ đạo Bộ Văn hóa, Thể thao và Du lịch thực hiện nhiệm vụ gì về mở cửa du lịch?",
+    "expected_answer": "Khẩn trương triển khai hiệu quả các giải pháp để mở cửa lại hoạt động du lịch trong điều kiện bình thường mới trên tinh thần 'thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch bệnh COVID-19'.",
+    "expected_context": "khẩn trương triển khai hiệu quả các giải pháp để mở cửa lại hoạt động du lịch trong điều kiện bình thường mới trên tinh thần 'thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch bệnh COVID-19'."
+  },
+  {
+    "question": "Công văn 1560/VPCP-KGVX yêu cầu triển khai chiến lược phát triển du lịch gắn liền với quyết định nào của Thủ tướng Chính phủ?",
+    "expected_answer": "Chiến lược Phát triển du lịch Việt Nam đến năm 2030 đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 147/QĐ-TTg ngày 22 tháng 01 năm 2020.",
+    "expected_context": "Chiến lược Phát triển du lịch Việt Nam đến năm 2030 đã được Thủ tướng Chính phủ phê duyệt tại Quyết định số 147/QĐ-TTg ngày 22 tháng 01 năm 2020."
+  },
+  {
+    "question": "Văn bản 908/TCDL của Tổng cục Du lịch hướng dẫn về nội dung pháp lý gì?",
+    "expected_answer": "Hướng dẫn thực hiện các quy định về việc cấp, đổi, cấp lại giấy phép kinh doanh dịch vụ lữ hành và điều kiện hoạt động của doanh nghiệp lữ hành.",
+    "expected_context": "Hướng dẫn thực hiện các quy định về việc cấp, đổi, cấp lại giấy phép kinh doanh dịch vụ lữ hành."
+  },
+  {
+    "question": "Khoảng thời gian nào được xem là lý tưởng và đẹp nhất để du lịch Đà Nẵng?",
+    "expected_answer": "Thời gian từ đầu tháng 4 đến giữa tháng 9 là thời điểm đẹp nhất để du lịch Đà Nẵng với thời tiết nắng ráo, biển trong xanh, thích hợp tắm biển và tham quan nghỉ dưỡng.",
+    "expected_context": "Đầu tháng 4 đến giữa tháng 9: Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè."
+  },
+  {
+    "question": "Bán đảo Sơn Trà tại Đà Nẵng có những bãi tắm và điểm tham quan tiêu biểu nào?",
+    "expected_answer": "Bán đảo Sơn Trà có các bãi tắm đẹp như Tiên Sa, Đá Đen, Bãi Bụt, cùng các điểm tham quan như đỉnh Bàn Cờ, chùa Linh Ứng, nhà Vọng Cảnh, hải đăng Sơn Trà và cây đa nghìn năm tuổi.",
+    "expected_context": "sở hữu cánh rừng nguyên sinh rộng lớn và nhiều bãi tắm đẹp như Tiên Sa, Đá Đen, bãi Bụt... Con đường trên bán đảo uốn lượn đi qua các vị trí có thể ngắm toàn cảnh thành phố từ trên cao như đỉnh Bàn Cờ, chùa Linh Ứng."
+  },
+  {
+    "question": "Những món ăn đặc sản nổi tiếng nhất định phải thử khi đến Đà Nẵng là gì?",
+    "expected_answer": "Đà Nẵng nổi tiếng với mì Quảng, bánh tráng cuốn thịt heo chấm mắm nêm, bê thui Cầu Mống, gỏi cá Nam Ô, bánh xèo nem lụi và bún mắm nêm.",
+    "expected_context": "Mì Quảng, Bánh tráng thịt heo, Bê thui Cầu Mống, Gỏi cá Nam Ô, Bánh xèo nem lụi, Bún mắm nêm là những đặc sản trứ danh của Đà Nẵng."
+  },
+  {
+    "question": "Cầu Rồng ở Đà Nẵng thường biểu diễn phun lửa và phun nước vào những thời gian nào?",
+    "expected_answer": "Cầu Rồng biểu diễn phun nước và phun lửa từ 21h vào các tối cuối tuần (thứ Bảy và Chủ nhật) trong khoảng thời gian 15 phút.",
+    "expected_context": "cầu Rồng đông khách hơn vào ba tối cuối tuần khi có màn trình diễn rồng phun nước, phun lửa. Từ 9h tối, nhiều du khách và người dân tập trung ở trên cầu."
+  },
+  {
+    "question": "Thời điểm lý tưởng nhất trong năm để du lịch Phú Quốc là mùa nào?",
+    "expected_answer": "Mùa khô từ cuối tháng 10 đến tháng 4 năm sau là thời điểm lý tưởng nhất để du lịch Phú Quốc với biển êm, sóng nhẹ, trời trong và nắng ấm.",
+    "expected_context": "Mùa khô từ khoảng cuối tháng 10 đến tháng 4 năm sau là thời điểm đẹp nhất để tới đảo Ngọc Phú Quốc khi biển êm và nắng đẹp."
+  },
+  {
+    "question": "Các bãi biển hoang sơ và nổi tiếng nhất tại đảo Phú Quốc gồm những bãi nào?",
+    "expected_answer": "Bãi Sao, Bãi Khem, Bãi Dài, Bãi Trường và Bãi Gành Dầu là những bãi biển nổi tiếng hàng đầu tại Phú Quốc.",
+    "expected_context": "Bãi Sao và Bãi Khem nổi tiếng với dải cát trắng mịn màng hình vầng trăng khuyết và làn nước xanh như ngọc bích."
+  },
+  {
+    "question": "Phố cổ Hội An có những đặc sản ẩm thực truyền thống nào thu hút du khách?",
+    "expected_answer": "Hội An nổi tiếng với món cao lầu, mì Quảng, cơm gà phố cổ, bánh bao bánh vạc (hoa hồng trắng) và bánh mì Hội An.",
+    "expected_context": "Đến Hội An không thể bỏ qua các món ăn đặc sắc như cao lầu với sợi mì dai thơm mùi tro củi cù lao Chàm, cơm gà Hội An và bánh bao bánh vạc."
+  },
+  {
+    "question": "Mùa lúa chín vàng rực trên các thửa ruộng bậc thang tại Sa Pa thường diễn ra vào tháng mấy?",
+    "expected_answer": "Mùa lúa chín tại Sa Pa thường diễn ra vào khoảng tháng 8 đến tháng 9 hàng năm, khi các thung lũng Mường Hoa, Tả Van chuyển sang màu vàng óng ả.",
+    "expected_context": "Mùa lúa chín: Từ tháng 8 đến tháng 9, các thửa ruộng bậc thang ở Sa Pa nhuộm vàng óng ả trong nắng thu tạo nên khung cảnh tráng lệ."
+  },
+  {
+    "question": "Đỉnh núi Fansipan tại Sa Pa được mệnh danh là gì và cao bao nhiêu mét?",
+    "expected_answer": "Đỉnh Fansipan được mệnh danh là 'Nóc nhà Đông Dương' với độ cao 3.143 mét so với mực nước biển.",
+    "expected_context": "Fansipan - 'Nóc nhà Đông Dương' với độ cao 3.143 m là mục tiêu chinh phục hàng đầu của du khách khi đặt chân đến thị xã Sa Pa."
+  },
+  {
+    "question": "Để tham quan vịnh Hạ Long, du khách thường lựa chọn hình thức trải nghiệm nào đặc trưng nhất?",
+    "expected_answer": "Hình thức trải nghiệm đặc trưng nhất là đi du thuyền tham quan vịnh ban ngày hoặc ngủ đêm trên vịnh Hạ Long, kết hợp chèo thuyền kayak và khám phá các hang động kỳ vĩ như hang Sửng Sốt, động Thiên Cung.",
+    "expected_context": "Trải nghiệm đi du thuyền ngắm hàng nghìn hòn đảo đá vôi kỳ vĩ và ngủ đêm trên vịnh Hạ Long, tham quan hang Sửng Sốt, đảo Ti Tốp là lựa chọn phổ biến nhất."
+  },
+  {
+    "question": "Vịnh Hạ Long nằm ở tỉnh nào của Việt Nam và đã được UNESCO công nhận là gì?",
+    "expected_answer": "Vịnh Hạ Long thuộc tỉnh Quảng Ninh và đã nhiều lần được UNESCO công nhận là Di sản Thiên nhiên Thế giới về giá trị thẩm mỹ và địa chất, địa mạo.",
+    "expected_context": "Vịnh Hạ Long thuộc tỉnh Quảng Ninh là kỳ quan thiên nhiên thế giới được UNESCO công nhận với hàng nghìn hòn đảo đá vôi tuyệt đẹp."
+  }
+]
