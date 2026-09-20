@@ -12,8 +12,8 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 ## Thông tin
 
-- Họ và tên:
-- Mã học viên:
+- Họ và tên: Trần Thu Phương
+- Mã học viên: 
 - Nhóm:
 - Repository/branch:
 
