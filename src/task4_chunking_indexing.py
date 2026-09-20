@@ -85,7 +85,7 @@ def embed_texts(texts: list[str]) -> list[list[float]]:
             vec[idx] += 1.0
         # Unit norm
         norm = sum(x * x for x in vec) ** 0.5
-        if norm > 0:
+        if norm > 0:    
             vec = [x / norm for x in vec]
         vectors.append(vec)
     return vectors
