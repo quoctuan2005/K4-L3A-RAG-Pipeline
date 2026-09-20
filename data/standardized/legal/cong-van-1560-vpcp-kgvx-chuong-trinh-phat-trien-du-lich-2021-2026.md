@@ -1,0 +1,95 @@
+# Công văn số 1560/VPCP-KGVX của Văn phòng Chính phủ: V/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021-2026
+
+**Source:** https://vanban.chinhphu.vn/?pageid=27160&docid=205462
+
+**Landing file:** cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.pdf
+
+**Doc type:** legal
+
+**Retrieved:** 2026-09-20T16:59:45.528856
+
+---
+
+[bản chép lại từ ảnh scan phục vụ xử lý dữ liệu — không phải file ký số gốc]
+
+Nguồn: https://vanban.chinhphu.vn/?pageid=27160&docid=205462
+
+Bản gốc ký số (scan): https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/03/1560-kgvx.signed.pdf
+
+Ngày lấy nội dung: 2026-09-20T16:59:45.325945
+
+Công văn số 1560/VPCP-KGVX của Văn phòng Chính phủ: V/v Chương trình phát triển du
+
+lịch Việt Nam giai đoạn 2021-2026
+
+VĂN PHÒNG CHÍNH PHỦ
+
+CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM
+
+Độc lập - Tự do - Hạnh phúc
+
+Số: 1560/VPCP-KGVX
+
+V/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026
+
+Hà Nội, ngày 12 tháng 3 năm 2022
+
+Kính gửi: Bộ Văn hóa, Thể thao và Du lịch.
+
+Xét đề nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình số 38/TTr-BVHTTDL ngày 07 tháng 02 năm
+
+2022 về Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026, Phó Thủ tướng Vũ Đức Đam yêu
+
+cầu Bộ Văn hóa, Thể thao và Du lịch:
+
+1. Chủ động xây dựng kế hoạch và tổ chức triển khai thực hiện các nhiệm vụ, giải pháp để đẩy nhanh tốc độ
+
+phục hồi du lịch thích ứng với tình hình mới; khẩn trương triển khai hiệu quả các giải pháp để mở cửa lại
+
+hoạt động du lịch trong điều kiện bình thường mới, trên tinh thần "thích ứng linh hoạt, an toàn, kiểm soát hiệu
+
+quả dịch bệnh COVID-19".
+
+2. Phối hợp với Bộ Kế hoạch và Đầu tư và các Bộ, ngành liên quan thực hiện các nội dung, nhiệm vụ trong
+
+lĩnh vực du lịch thuộc Chương trình phục hồi và phát triển kinh tế - xã hội (Nghị quyết số 11/NQ-CP ngày 30
+
+tháng  01  năm  2022  của  Chính  phủ),  bảo  đảm  tiến  độ,  hiệu  quả  theo  tinh  thần  Công  điện  số  126/CĐ-TTg
+
+ngày 12 tháng 02 năm 2022 của Thủ tướng Chính phủ.
+
+3. Chủ trì, phối hợp với các bộ, ngành và địa phương chủ động xây dựng kế hoạch và tổ chức thực hiện theo
+
+thẩm  quyền  các  nhiệm  vụ,  giải  pháp  đã  nêu  trong  Chiến  lược  Phát  triển  du  lịch  Việt  Nam  đến  năm  2030
+
+(Quyết định số 147/QĐ-TTg ngày 22 tháng 01 năm 2020 của Thủ tướng Chính phủ); rà soát, tháo gỡ theo
+
+thẩm quyền hoặc đề xuất cấp có thẩm quyền tháo gỡ các khó khăn, vướng mắc cản trở quá trình phát triển
+
+du lịch theo các mục tiêu đã đề ra trong Chiến lược.
+
+Văn phòng Chính phủ thông báo để Bộ Văn hóa, Thể thao và Du lịch và các cơ quan liên quan biết, thực
+
+hiện./.
+
+Nơi nhận:
+
+- Như trên;
+
+- Thủ tướng, các Phó Thủ tướng CP (để b/c);
+
+- Các Bộ, cơ quan ngang bộ, cơ quan thuộc CP;
+
+- UBND các tỉnh, thành phố trực thuộc TW;
+
+- VPCP: BTCN, PCN Nguyễn Sỹ Hiệp, Trợ lý TTg, TGĐ Cổng TTĐT, các Vụ: TH, KTTH, CN, NN, QHQT,
+
+QHĐP;
+
+- Lưu: VT, KGVX (3).
+
+KT. BỘ TRƯỞNG, CHỦ NHIỆM
+
+PHÓ CHỦ NHIỆM
+
+Nguyễn Sỹ Hiệp
