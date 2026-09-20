@@ -1,15 +1,4 @@
 # Individual contribution report
-
-Mỗi thành viên copy template này thành:
-
-```text
-reports/<student-id>-<short-name>.md
-```
-
-Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả lý thuyết chung. Báo cáo không phải một bài pipeline cá nhân; mục đích là ghi nhận ownership và bằng chứng đóng góp trong sản phẩm nhóm.
-
----
-
 ## Thông tin
 
 - Họ và tên: Cao Văn Trường
@@ -21,8 +10,8 @@ Giới hạn khuyến nghị: 1 trang, không chép lại README hoặc mô tả
 
 | Module/deliverable | Việc tôi trực tiếp làm | File/commit/PR | Trạng thái |
 |---|---|---|---|
-|**Task 10: Generation & Citations** | hiết kế giải thuật phân bổ lại ngữ cảnh (đưa chunk quan trọng nhất ra đầu và cuối prompt) nhằm tối ưu attention của LLM.|`src/task10_generation.py` (commit `612bc7f`) |Done|
-| **App UI: Streamlit Chatbot** | Xây dựng giao diện chat trực quan: hiển thị câu trả lời kèm accordion trích dẫn nguồn, similarity score và retrieval method. | `app.py` (commit `612bc7f`) | Done |
+|**Task 10: Generation & Citations** | hiết kế giải thuật phân bổ lại ngữ cảnh (đưa chunk quan trọng nhất ra đầu và cuối prompt) nhằm tối ưu attention của LLM.|`src/task10_generation.py` |Done|
+| **App UI: Streamlit Chatbot** | Xây dựng giao diện chat trực quan: hiển thị câu trả lời kèm accordion trích dẫn nguồn, similarity score và retrieval method. | `app.py` | Done |
 
 1. **Quyết định: Áp dụng giải thuật "Lost-in-the-Middle Reordering" thay vì truyền context theo thứ tự rank tuần tự.**  
    **Lý do/evidence:** Theo nghiên cứu của Liu et al. (2023), các mô hình LLM giải mã có xu hướng tập trung chú ý cao nhất ở đầu và cuối context window, dễ lãng quên thông tin ở giữa. Thuật toán phân bổ xen kẽ (Rank 1 ở đầu, Rank 2 ở cuối, Rank 3 ở kế tiếp...) giúp tăng chỉ số **Faithfulness (+0.05)** và **Answer Relevance (+0.04)** trong kết quả đánh giá RAGAS.  
