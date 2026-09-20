@@ -1,0 +1,82 @@
+[
+  {
+    "question": "Mục tiêu đến năm 2025 theo Quyết định số 147/QĐ-TTg về tổng thu từ khách du lịch và đóng góp vào GDP là bao nhiêu?",
+    "expected_answer": "Theo Quyết định số 147/QĐ-TTg, mục tiêu đến năm 2025 tổng thu từ khách du lịch đạt 1.700 - 1.800 nghìn tỷ đồng (tương đương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm và đóng góp trực tiếp vào GDP đạt 12 - 14%.",
+    "expected_context": "Tổng thu từ khách du lịch: Đạt 1.700 - 1.800 nghìn tỷ đồng (tương đương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm; đóng góp trực tiếp vào GDP đạt 12 - 14%."
+  },
+  {
+    "question": "Chiến lược phát triển du lịch Việt Nam đến năm 2030 đặt mục tiêu đón bao nhiêu lượt khách quốc tế và nội địa vào năm 2030?",
+    "expected_answer": "Đến năm 2030, phấn đấu đón được ít nhất 50 triệu lượt khách quốc tế và 160 triệu lượt khách nội địa; duy trì tốc độ tăng trưởng bình quân về khách quốc tế từ 8 - 10%/năm và khách nội địa từ 5 - 6%/năm.",
+    "expected_context": "Về khách du lịch: Phấn đấu đón được ít nhất 50 triệu lượt khách quốc tế và 160 triệu lượt khách nội địa; duy trì tốc độ tăng trưởng bình quân về khách quốc tế từ 8 - 10%/năm và khách nội địa từ 5 - 6%/năm."
+  },
+  {
+    "question": "Quan điểm của Quyết định số 147/QĐ-TTg về phát triển du lịch bền vững và bao trùm như thế nào?",
+    "expected_answer": "Phát triển du lịch bền vững và bao trùm, trên nền tảng tăng trưởng xanh, tối đa hóa sự đóng góp của du lịch cho các mục tiêu phát triển bền vững của Liên Hợp Quốc; quản lý, sử dụng hiệu quả tài nguyên thiên nhiên, bảo vệ môi trường và đa dạng sinh học, chủ động thích ứng với biến đổi khí hậu, bảo đảm quốc phòng, an ninh.",
+    "expected_context": "Phát triển du lịch bền vững và bao trùm, trên nền tảng tăng trưởng xanh, tối đa hóa sự đóng góp của du lịch cho các mục tiêu phát triển bền vững của Liên Hợp Quốc; quản lý, sử dụng hiệu quả tài nguyên thiên nhiên, bảo vệ môi trường và đa dạng sinh học, chủ động thích ứng với biến đổi khí hậu, bảo đảm quốc phòng, an ninh."
+  },
+  {
+    "question": "Công văn số 1560/VPCP-KGVX chỉ đạo mở cửa lại hoạt động du lịch theo tinh thần nào?",
+    "expected_answer": "Công văn số 1560/VPCP-KGVX chỉ đạo khẩn trương triển khai các giải pháp để mở cửa lại hoạt động du lịch trong điều kiện bình thường mới theo tinh thần 'thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19'.",
+    "expected_context": "Bộ Văn hóa, Thể thao và Du lịch chủ động phối hợp với các bộ, cơ quan liên quan và Ủy ban nhân dân các tỉnh, thành phố trực thuộc Trung ương khẩn trương triển khai các giải pháp để mở cửa lại hoạt động du lịch trong điều kiện bình thường mới theo tinh thần 'thích ứng an toàn, linh hoạt, kiểm soát hiệu quả dịch COVID-19'."
+  },
+  {
+    "question": "Phó Thủ tướng Vũ Đức Đam yêu cầu phối hợp với những bộ nào để thực hiện chính sách hỗ trợ du lịch theo Nghị quyết số 11/NQ-CP?",
+    "expected_answer": "Yêu cầu phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Tài chính thực hiện hiệu quả các chính sách hỗ trợ phát triển du lịch trong Chương trình phục hồi và phát triển kinh tế - xã hội theo Nghị quyết số 11/NQ-CP của Chính phủ.",
+    "expected_context": "Phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Tài chính thực hiện hiệu quả các chính sách hỗ trợ phát triển du lịch trong Chương trình phục hồi và phát triển kinh tế - xã hội theo Nghị quyết số 11/NQ-CP của Chính phủ."
+  },
+  {
+    "question": "Nghị quyết số 26-NQ/TW xác định mục tiêu đến năm 2030 hình thành 3 cực tăng trưởng du lịch nào?",
+    "expected_answer": "Nghị quyết số 26-NQ/TW xác định hình thành và phát triển mạnh 3 cực tăng trưởng du lịch gồm: Hà Nội, Thành phố Hồ Chí Minh và Đà Nẵng.",
+    "expected_context": "Hình thành và phát triển mạnh 3 cực tăng trưởng du lịch: Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; xây dựng 10 trung tâm du lịch trọng điểm quốc gia và 20 khu du lịch quốc gia có thương hiệu quốc tế."
+  },
+  {
+    "question": "Tầm nhìn phát triển du lịch đến năm 2045 theo Nghị quyết số 26-NQ/TW là gì?",
+    "expected_answer": "Đến năm 2045, Việt Nam trở thành quốc gia phát triển du lịch hàng đầu thế giới, thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch tốt nhất; đóng góp trực tiếp từ 14 - 15% GDP và đón trên 70 triệu lượt khách quốc tế.",
+    "expected_context": "Tầm nhìn đến năm 2045: Việt Nam trở thành quốc gia phát triển du lịch hàng đầu thế giới, thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch tốt nhất. Đóng góp trực tiếp từ 14 - 15% GDP, đón trên 70 triệu lượt khách quốc tế."
+  },
+  {
+    "question": "Thời điểm nào được xem là đẹp nhất để du lịch Đà Nẵng?",
+    "expected_answer": "Đầu tháng 4 đến giữa tháng 9 là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè khá đông đúc và đắt đỏ. Tháng 4 còn là mùa cây rừng thay lá vàng lá đỏ trên bán đảo Sơn Trà.",
+    "expected_context": "Đầu tháng 4 đến giữa tháng 9: Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 làmùa cây rừng thay lávàng, lá đỏ trên bán đảo Sơn Trà."
+  },
+  {
+    "question": "Bán đảo Sơn Trà có loài linh trưởng đặc hữu nào được bảo tồn nghiêm ngặt?",
+    "expected_answer": "Bán đảo Sơn Trà là nơi sinh sống của loài voọc chà vá chân nâu, được mệnh danh là 'nữ hoàng linh trưởng' với quần thể khoảng 300 - 400 con và được bảo tồn nghiêm ngặt.",
+    "expected_context": "Trong đó, voọc chà vá chân nâu được mệnh danh là \"nữ hoàng linh trưởng\" trên bán đảo Sơn Trà, với quần thể khoảng 300 - 400 con, được bảo tồn nghiêm ngặt."
+  },
+  {
+    "question": "Thời điểm lý tưởng nhất trong năm để du lịch Phú Quốc là vào những tháng nào?",
+    "expected_answer": "Thời điểm lý tưởng nhất để du lịch Phú Quốc là từ khoảng tháng 11 đến tháng 4 năm sau, khi thời tiết là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm.",
+    "expected_context": "Thời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời."
+  },
+  {
+    "question": "Có hai tuyến tàu cao tốc nào từ đất liền ra đảo Phú Quốc và tuyến nào nhanh hơn?",
+    "expected_answer": "Có hai tuyến tàu cao tốc ra Phú Quốc là từ Rạch Giá (khoảng 120 km mất 2 tiếng 30 phút) và từ Hà Tiên (khoảng 50 km mất 1 tiếng 30 phút). Tuyến từ Hà Tiên di chuyển nhanh hơn và giá vé rẻ hơn.",
+    "expected_context": "Có hai tuyến đi Phú Quốc, hành trình từ Rạch Giá là khoảng 120 km mất 2 tiếng 30 phút, còn hành trình từ Hà Tiên là khoảng 50 km mất 1 tiếng 30 phút. Bạn nên xuất phát từ Hà Tiên để rút ngắn thời gian di chuyển trên biển, và giá vé cũng rẻ hơn."
+  },
+  {
+    "question": "Thời gian nào trong năm được xem là lý tưởng nhất để dạo chơi tại phố cổ Hội An?",
+    "expected_answer": "Ba tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An vì khi đó nắng không quá gắt, tiết trời mát mẻ và thi thoảng có mưa nhỏ.",
+    "expected_context": "Ba tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ."
+  },
+  {
+    "question": "Muốn đi từ Đà Nẵng vào Hội An bằng xe bus công cộng thì bắt tuyến xe nào và giá vé bao nhiêu?",
+    "expected_answer": "Bạn có thể bắt tuyến xe bus số 01 lộ trình Đà Nẵng - Hội An, chạy từ 5h30 đến 17h50 hàng ngày với giá vé 20.000 đồng mỗi người.",
+    "expected_context": "Nếu đi xe bus bạn bắt tuyến số 01 Đà Nẵng - Hội An chạy từ 5h30 đến 17h50 hàng ngày với giá vé 20.000 đồng mỗi người."
+  },
+  {
+    "question": "Mùa lúa chín ở Sa Pa diễn ra vào những tháng nào và mùa đông Sa Pa có gì đặc biệt?",
+    "expected_answer": "Mùa lúa chín ở Sa Pa diễn ra vào mùa thu từ tháng 9 đến tháng 11. Vào mùa đông từ tháng 12 đến tháng 2 năm sau, du khách may mắn có thể săn tuyết và băng giá trên các đỉnh núi.",
+    "expected_context": "Mùa thu kéo dài từ tháng 9 đến tháng 11, Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. Mùa đông đến từ tháng 12 đến tháng 2 năm sau, nếu may mắn bạn có thể \"săn\" tuyết, băng giá trên những đỉnh núi."
+  },
+  {
+    "question": "Khi tự lái ô tô từ Hà Nội lên Sa Pa thì đi theo lộ trình đường cao tốc nào?",
+    "expected_answer": "Lộ trình là đi theo cao tốc Nội Bài - Lào Cai, sau đó rẽ sang quốc lộ 4D để lên Sa Pa với thời gian chạy xe khoảng 5 - 6 tiếng.",
+    "expected_context": "Nếu tự lái ôtô, bạn đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa. Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ."
+  },
+  {
+    "question": "Thành phố Hạ Long được phân chia thành hai khu vực nào bởi cầu Bãi Cháy?",
+    "expected_answer": "TP Hạ Long được phân chia bởi cầu Bãi Cháy thành hai khu vực là Bãi Cháy (tập trung nhiều khu du lịch, khách sạn, nhà hàng) và Hòn Gai (chủ yếu là khu dân cư).",
+    "expected_context": "TP Hạ Long phân chia thành hai khu vực là Bãi Cháy và Hòn Gai, bởi cầu Bãi Cháy. Phía Bãi Cháy tập trung nhiều khu du lịch, khách sạn, nhà hàng còn phía Hòn Gai chủ yếu là các khu dân cư."
+  }
+]
