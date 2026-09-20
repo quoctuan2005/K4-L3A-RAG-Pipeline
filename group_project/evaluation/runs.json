@@ -1,0 +1,1506 @@
+[
+  {
+    "case_index": 1,
+    "question": "Mục tiêu đến năm 2025 theo Quyết định số 147/QĐ-TTg về tổng thu từ khách du lịch và đóng góp vào GDP là bao nhiêu?",
+    "expected_answer": "Theo Quyết định số 147/QĐ-TTg, mục tiêu đến năm 2025 tổng thu từ khách du lịch đạt 1.700 - 1.800 nghìn tỷ đồng (tương đương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm và đóng góp trực tiếp vào GDP đạt 12 - 14%.",
+    "expected_context": "Tổng thu từ khách du lịch: Đạt 1.700 - 1.800 nghìn tỷ đồng (tương đương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm; đóng góp trực tiếp vào GDP đạt 12 - 14%.",
+    "A_dense_only": {
+      "answer": "Mục tiêu đến năm 2025 theo Quyết định số 147/QĐ-TTg về tổng thu từ khách du lịch là 1.700 - 1.800 nghìn tỷ đồng (tương đương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm; đóng góp trực tiếp vào GDP đạt 12 - 14% [Document 1].",
+      "retrieved_contexts": [
+        "[1. Đến năm 2025]\nViệt Nam trở thành điểm đến hấp dẫn, phấn đấu thuộc nhóm ba quốc gia\ndẫn đầu về phát triển du lịch trong khu vực Đông Nam Á và 50 quốc gia có\nnăng lực cạnh tranh du lịch hàng đầu thế giới, trong đó tất cả 14 tiêu chí năng\nlực cạnh tranh du lịch đều tăng, phù hợp với yêu cầu phát triển bền vững.\n\n-  Tổng  thu  từ  khách  du  lịch:  Đạt  1.700  -  1.800  nghìn  tỷ  đồng  (tương\nđương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm; đóng góp trực\ntiếp  vào GDP đạt 12 - 14%.",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\n- Du lịch Việt Nam là ngành kinh tế mũi nhọn đóng góp trực tiếp từ 10 - 12% GDP, giữ vững vị thế nhóm đầu\n\nkhu vực Đông Nam Á về quy mô và tốc độ tăng trưởng; phấn đấu đón 45 - 50 triệu lượt khách quốc tế, phục\n\nvụ 160 triệu lượt khách nội địa đặt trọng tâm vào thị trường khách chi tiêu cao, lưu trú dài ngày; tổng thu từ\n\nkhách du lịch đạt 80 - 90 tỉ USD.",
+        "[2. Mục tiêu cụ thể > 2.2. Đến năm 2045]\nDu lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực\n\ntiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến\n\ndu  lịch  hấp  dẫn,  chất  lượng  cao,  đẳng  cấp  và  mang  đậm  bản  sắc  Việt  Nam;  phấn  đấu  đón  70  triệu  lượt\n\nkhách du lịch quốc tế.",
+        "[1. Đến năm 2025]\n- Tạo ra khoảng 5,5 - 6 triệu việc làm, trong đó có khoảng 2 triệu việc\n\nlàm trực tiếp, tăng trưởng bình quân 12 - 14%/năm.\n\n- Về khách du lịch: Phấn đấu đón được ít nhất 35 triệu lượt khách quốc\ntế  và  120  triệu  lượt  khách  nội  địa,  duy  trì  tốc  độ  tăng  trưởng  bình  quân  về\nkhách quốc tế từ 12 - 14%/năm và khách nội địa từ 6 - 7%/năm.",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\nkhách du lịch đạt 80 - 90 tỉ USD.\n\n- Phát triển mạnh 3 cực tăng trưởng du lịch Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; 10 trung tâm du lịch\n\ntrọng  điểm;  20  khu  du  lịch  quốc  gia;  15  tập  đoàn,  tổng  công  ty  du  lịch  có  thương  hiệu  mạnh  và  sức  cạnh\n\ntranh quốc tế; bảo đảm khoảng 1,5 triệu buồng lưu trú du lịch. Toàn ngành tạo ra khoảng 2,3 triệu việc làm\n\ntrực tiếp và 3,5 triệu việc làm gián tiếp."
+      ],
+      "sources": [
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-7",
+          "retrieval_method": "dense",
+          "score": 0.7057685852050781,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-15",
+          "retrieval_method": "dense",
+          "score": 0.702185869216919,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-18",
+          "retrieval_method": "dense",
+          "score": 0.6792846322059631,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-8",
+          "retrieval_method": "dense",
+          "score": 0.665561318397522,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-16",
+          "retrieval_method": "dense",
+          "score": 0.6577576994895935,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 10.98024034500122,
+      "generation_seconds": 3.1339924335479736
+    },
+    "B_hybrid_rrf": {
+      "answer": "Theo Quyết định số 147/QĐ-TTg, mục tiêu đến năm 2025 về tổng thu từ khách du lịch và đóng góp vào GDP là:\n\n*   **Tổng thu từ khách du lịch:** Đạt 1.700 - 1.800 nghìn tỷ đồng (tương đương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm. [Document 5]\n*   **Đóng góp trực tiếp vào GDP:** Đạt 12 - 14%. [Document 5]",
+      "retrieved_contexts": [
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\n- Du lịch Việt Nam là ngành kinh tế mũi nhọn đóng góp trực tiếp từ 10 - 12% GDP, giữ vững vị thế nhóm đầu\n\nkhu vực Đông Nam Á về quy mô và tốc độ tăng trưởng; phấn đấu đón 45 - 50 triệu lượt khách quốc tế, phục\n\nvụ 160 triệu lượt khách nội địa đặt trọng tâm vào thị trường khách chi tiêu cao, lưu trú dài ngày; tổng thu từ\n\nkhách du lịch đạt 80 - 90 tỉ USD.",
+        "[1. Đến năm 2025]\nViệt Nam trở thành điểm đến hấp dẫn, phấn đấu thuộc nhóm ba quốc gia\ndẫn đầu về phát triển du lịch trong khu vực Đông Nam Á và 50 quốc gia có\nnăng lực cạnh tranh du lịch hàng đầu thế giới, trong đó tất cả 14 tiêu chí năng\nlực cạnh tranh du lịch đều tăng, phù hợp với yêu cầu phát triển bền vững.\n\n-  Tổng  thu  từ  khách  du  lịch:  Đạt  1.700  -  1.800  nghìn  tỷ  đồng  (tương\nđương 77 - 80 tỷ USD), tăng trưởng bình quân 13 - 14%/năm; đóng góp trực\ntiếp  vào GDP đạt 12 - 14%.",
+        "[2. Mục tiêu cụ thể > 2.2. Đến năm 2045]\nDu lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực\n\ntiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến\n\ndu  lịch  hấp  dẫn,  chất  lượng  cao,  đẳng  cấp  và  mang  đậm  bản  sắc  Việt  Nam;  phấn  đấu  đón  70  triệu  lượt\n\nkhách du lịch quốc tế.",
+        "[2. Đến năm 2030]\nDu  lịch  thực  sự  là  ngành  kinh  tế  mũi  nhọn  và  phát  triển  bền  vững.\nViệt Nam trở thành điểm đến đặc biệt hấp dẫn, thuộc nhóm 30 quốc gia có\nnăng lực cạnh tranh du lịch hàng đầu thế giới, đáp ứng đầy đủ yêu cầu và mục\ntiêu phát triển bền vững.\n\n-  Tổng  thu  từ  khách  du  lịch:  Đạt  3.100  -  3.200  nghìn  tỷ  đồng  (tương\nđương 130  -  135  tỷ  USD),  tăng  trưởng bình quân 11  -  12%/năm;  đóng góp\ntrực tiếp vào GDP đạt 15 - 17%.",
+        "THỦ TƯỚNG CHÍNH PHỦ\n____________\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n________________________________________________\n\nSố: 147/QĐ-TTg\n\nHà Nội, ngày 22 tháng 01 năm 2020\n\nQUYẾT ĐỊNH\nPhê duyệt Chiến lược phát triển du lịch Việt Nam\nđến năm 2030\n\n_____________\n\nTHỦ TƯỚNG CHÍNH PHỦ\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nXét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch,\n\nQUYẾT ĐỊNH:"
+      ],
+      "sources": [
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-15",
+          "retrieval_method": "hybrid",
+          "score": 0.03252247488101534,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-7",
+          "retrieval_method": "hybrid",
+          "score": 0.032018442622950824,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-18",
+          "retrieval_method": "hybrid",
+          "score": 0.031024531024531024,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-9",
+          "retrieval_method": "hybrid",
+          "score": 0.031024531024531024,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-0",
+          "retrieval_method": "hybrid",
+          "score": 0.030309988518943745,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        }
+      ],
+      "retrieval_seconds": 0.29569125175476074,
+      "generation_seconds": 2.14005184173584
+    }
+  },
+  {
+    "case_index": 2,
+    "question": "Chiến lược phát triển du lịch Việt Nam đến năm 2030 đặt mục tiêu đón bao nhiêu lượt khách quốc tế và nội địa vào năm 2030?",
+    "expected_answer": "Đến năm 2030, phấn đấu đón được ít nhất 50 triệu lượt khách quốc tế và 160 triệu lượt khách nội địa; duy trì tốc độ tăng trưởng bình quân về khách quốc tế từ 8 - 10%/năm và khách nội địa từ 5 - 6%/năm.",
+    "expected_context": "Về khách du lịch: Phấn đấu đón được ít nhất 50 triệu lượt khách quốc tế và 160 triệu lượt khách nội địa; duy trì tốc độ tăng trưởng bình quân về khách quốc tế từ 8 - 10%/năm và khách nội địa từ 5 - 6%/năm.",
+    "A_dense_only": {
+      "answer": "Chiến lược phát triển du lịch Việt Nam đến năm 2030 đặt mục tiêu đón ít nhất 50 triệu lượt khách quốc tế và 160 triệu lượt khách nội địa vào năm 2030. (Document 2)",
+      "retrieved_contexts": [
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\n- Du lịch Việt Nam là ngành kinh tế mũi nhọn đóng góp trực tiếp từ 10 - 12% GDP, giữ vững vị thế nhóm đầu\n\nkhu vực Đông Nam Á về quy mô và tốc độ tăng trưởng; phấn đấu đón 45 - 50 triệu lượt khách quốc tế, phục\n\nvụ 160 triệu lượt khách nội địa đặt trọng tâm vào thị trường khách chi tiêu cao, lưu trú dài ngày; tổng thu từ\n\nkhách du lịch đạt 80 - 90 tỉ USD.",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\nkhách du lịch đạt 80 - 90 tỉ USD.\n\n- Phát triển mạnh 3 cực tăng trưởng du lịch Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; 10 trung tâm du lịch\n\ntrọng  điểm;  20  khu  du  lịch  quốc  gia;  15  tập  đoàn,  tổng  công  ty  du  lịch  có  thương  hiệu  mạnh  và  sức  cạnh\n\ntranh quốc tế; bảo đảm khoảng 1,5 triệu buồng lưu trú du lịch. Toàn ngành tạo ra khoảng 2,3 triệu việc làm\n\ntrực tiếp và 3,5 triệu việc làm gián tiếp.",
+        "[2. Đến năm 2030]\n- Tạo ra khoảng 8,5 triệu việc làm, trong đó có khoảng 3 triệu việc làm\n\ntrực tiếp, tăng trưởng bình quân 8 - 9%/năm.\n\n- Về khách du lịch: Phấn đấu đón được ít nhất 50 triệu lượt khách quốc\ntế  và  160  triệu  lượt  khách  nội  địa;  duy  trì  tốc  độ  tăng  trưởng  bình  quân  về\nkhách quốc tế từ 8 - 10%/năm và khách nội địa từ 5 - 6%/năm.",
+        "[2. Đến năm 2030]\nDu  lịch  thực  sự  là  ngành  kinh  tế  mũi  nhọn  và  phát  triển  bền  vững.\nViệt Nam trở thành điểm đến đặc biệt hấp dẫn, thuộc nhóm 30 quốc gia có\nnăng lực cạnh tranh du lịch hàng đầu thế giới, đáp ứng đầy đủ yêu cầu và mục\ntiêu phát triển bền vững.\n\n-  Tổng  thu  từ  khách  du  lịch:  Đạt  3.100  -  3.200  nghìn  tỷ  đồng  (tương\nđương 130  -  135  tỷ  USD),  tăng  trưởng bình quân 11  -  12%/năm;  đóng góp\ntrực tiếp vào GDP đạt 15 - 17%.",
+        "[2. Mục tiêu cụ thể > 2.2. Đến năm 2045]\nDu lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực\n\ntiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến\n\ndu  lịch  hấp  dẫn,  chất  lượng  cao,  đẳng  cấp  và  mang  đậm  bản  sắc  Việt  Nam;  phấn  đấu  đón  70  triệu  lượt\n\nkhách du lịch quốc tế."
+      ],
+      "sources": [
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-15",
+          "retrieval_method": "dense",
+          "score": 0.7393301725387573,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-16",
+          "retrieval_method": "dense",
+          "score": 0.709434986114502,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-10",
+          "retrieval_method": "dense",
+          "score": 0.7040717601776123,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-9",
+          "retrieval_method": "dense",
+          "score": 0.6984191536903381,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-18",
+          "retrieval_method": "dense",
+          "score": 0.6897919178009033,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.3860814571380615,
+      "generation_seconds": 2.2014498710632324
+    },
+    "B_hybrid_rrf": {
+      "answer": "Chiến lược phát triển du lịch Việt Nam đến năm 2030 đặt mục tiêu đón ít nhất 50 triệu lượt khách quốc tế và 160 triệu lượt khách nội địa vào năm 2030. (Document 5)",
+      "retrieved_contexts": [
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\n- Du lịch Việt Nam là ngành kinh tế mũi nhọn đóng góp trực tiếp từ 10 - 12% GDP, giữ vững vị thế nhóm đầu\n\nkhu vực Đông Nam Á về quy mô và tốc độ tăng trưởng; phấn đấu đón 45 - 50 triệu lượt khách quốc tế, phục\n\nvụ 160 triệu lượt khách nội địa đặt trọng tâm vào thị trường khách chi tiêu cao, lưu trú dài ngày; tổng thu từ\n\nkhách du lịch đạt 80 - 90 tỉ USD.",
+        "[2. Đến năm 2030]\n- Tạo ra khoảng 8,5 triệu việc làm, trong đó có khoảng 3 triệu việc làm\n\ntrực tiếp, tăng trưởng bình quân 8 - 9%/năm.\n\n- Về khách du lịch: Phấn đấu đón được ít nhất 50 triệu lượt khách quốc\ntế  và  160  triệu  lượt  khách  nội  địa;  duy  trì  tốc  độ  tăng  trưởng  bình  quân  về\nkhách quốc tế từ 8 - 10%/năm và khách nội địa từ 5 - 6%/năm.",
+        "[Điều  1.  Phê  duyệt  “Chiến  lược  phát  triển  du  lịch  Việt  Nam  đến  năm]\n2030” với các nội dung sau đây:",
+        "[2. Đến năm 2030]\nDu  lịch  thực  sự  là  ngành  kinh  tế  mũi  nhọn  và  phát  triển  bền  vững.\nViệt Nam trở thành điểm đến đặc biệt hấp dẫn, thuộc nhóm 30 quốc gia có\nnăng lực cạnh tranh du lịch hàng đầu thế giới, đáp ứng đầy đủ yêu cầu và mục\ntiêu phát triển bền vững.\n\n-  Tổng  thu  từ  khách  du  lịch:  Đạt  3.100  -  3.200  nghìn  tỷ  đồng  (tương\nđương 130  -  135  tỷ  USD),  tăng  trưởng bình quân 11  -  12%/năm;  đóng góp\ntrực tiếp vào GDP đạt 15 - 17%.",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\nkhách du lịch đạt 80 - 90 tỉ USD.\n\n- Phát triển mạnh 3 cực tăng trưởng du lịch Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; 10 trung tâm du lịch\n\ntrọng  điểm;  20  khu  du  lịch  quốc  gia;  15  tập  đoàn,  tổng  công  ty  du  lịch  có  thương  hiệu  mạnh  và  sức  cạnh\n\ntranh quốc tế; bảo đảm khoảng 1,5 triệu buồng lưu trú du lịch. Toàn ngành tạo ra khoảng 2,3 triệu việc làm\n\ntrực tiếp và 3,5 triệu việc làm gián tiếp."
+      ],
+      "sources": [
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-15",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-10",
+          "retrieval_method": "hybrid",
+          "score": 0.031746031746031744,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-1",
+          "retrieval_method": "hybrid",
+          "score": 0.030834914611005692,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-9",
+          "retrieval_method": "hybrid",
+          "score": 0.030776515151515152,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-16",
+          "retrieval_method": "hybrid",
+          "score": 0.0304147465437788,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.41352367401123047,
+      "generation_seconds": 1.9559106826782227
+    }
+  },
+  {
+    "case_index": 3,
+    "question": "Quan điểm của Quyết định số 147/QĐ-TTg về phát triển du lịch bền vững và bao trùm như thế nào?",
+    "expected_answer": "Phát triển du lịch bền vững và bao trùm, trên nền tảng tăng trưởng xanh, tối đa hóa sự đóng góp của du lịch cho các mục tiêu phát triển bền vững của Liên Hợp Quốc; quản lý, sử dụng hiệu quả tài nguyên thiên nhiên, bảo vệ môi trường và đa dạng sinh học, chủ động thích ứng với biến đổi khí hậu, bảo đảm quốc phòng, an ninh.",
+    "expected_context": "Phát triển du lịch bền vững và bao trùm, trên nền tảng tăng trưởng xanh, tối đa hóa sự đóng góp của du lịch cho các mục tiêu phát triển bền vững của Liên Hợp Quốc; quản lý, sử dụng hiệu quả tài nguyên thiên nhiên, bảo vệ môi trường và đa dạng sinh học, chủ động thích ứng với biến đổi khí hậu, bảo đảm quốc phòng, an ninh.",
+    "A_dense_only": {
+      "answer": "Tôi không thể trả lời câu hỏi này dựa trên ngữ cảnh được cung cấp. Quyết định số 147/QĐ-TTg được nhắc đến trong [Document 1] nhưng không có thông tin chi tiết về quan điểm của quyết định này về phát triển du lịch bền vững và bao trùm.",
+      "retrieved_contexts": [
+        "THỦ TƯỚNG CHÍNH PHỦ\n____________\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n________________________________________________\n\nSố: 147/QĐ-TTg\n\nHà Nội, ngày 22 tháng 01 năm 2020\n\nQUYẾT ĐỊNH\nPhê duyệt Chiến lược phát triển du lịch Việt Nam\nđến năm 2030\n\n_____________\n\nTHỦ TƯỚNG CHÍNH PHỦ\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nXét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch,\n\nQUYẾT ĐỊNH:",
+        "Ngày lấy nội dung: 2026-09-20T15:42:18.087164\n\nNghị  quyết  Bộ  Chính  trị  về  phát  triển  du  lịch  Việt  Nam  trở  thành  ngành  kinh  tế  mũi  nhọn\n\ntrong kỷ nguyên mới\n\n.jpg)\n\nẢnh minh họa.\n\nCổng Thông tin điện tử Đảng Cộng sản Việt Nam trân trọng giới thiệu toàn văn Nghị quyết.\n\nDu lịch là ngành kinh tế tổng hợp, có tính liên ngành, liên vùng và xã hội hoá cao; có khả năng tạo ra giá trị",
+        "ra yêu cầu linh hoạt ứng phó, đồng thời với chiến lược tiếp cận toàn diện, bền vững. Nhằm khơi thông mọi\n\nnguồn lực, đưa du lịch phát triển đột phá, khẳng định vị thế ngành kinh tế mũi nhọn, đòi hỏi Việt Nam phải có\n\nnhững quyết sách chiến lược và đồng bộ; ngành du lịch và cộng đồng doanh nghiệp phải thực sự đổi mới tư\n\nduy, cách tiếp cận và cách làm để chuyển đổi mô hình tăng trưởng và phương thức quản trị du lịch từ \"số",
+        "[1. Đổi mới tư duy, nâng cao nhận thức và trách nhiệm trong phát triển du lịch]\ntrọng mô hình phát triển theo chiều sâu, chất lượng, hiệu quả, bền vững và giá trị gia tăng cao gắn với các\n\nsản phẩm giàu sáng tạo, trải nghiệm đặc sắc; đổi mới tư duy về quản trị du lịch theo hướng quản trị hệ sinh\n\nthái kinh tế dịch vụ tổng hợp, đồng bộ trong chuỗi giá trị.\n\n- Xác định rõ trách nhiệm của cấp uỷ, chính quyền và người đứng đầu trong phát triển du lịch; lồng ghép mục",
+        "gia tăng lớn, thúc đẩy tiêu dùng, mở rộng thị trường dịch vụ, tạo việc làm, chuyển dịch cơ cấu kinh tế, bảo\n\ntồn và phát huy giá trị văn hoá, tài nguyên thiên nhiên, quảng bá hình ảnh đất nước, con người Việt Nam,\n\nnâng  cao  vị  thế  và  sức  mạnh  mềm  quốc  gia.  Sau  gần  10  năm  thực  hiện  Nghị  quyết  số  08-NQ/TW,  ngày\n\n16/01/2017 của Bộ Chính trị về phát triển du lịch trở thành ngành kinh tế mũi nhọn, nhận thức của các cấp,"
+      ],
+      "sources": [
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-0",
+          "retrieval_method": "dense",
+          "score": 0.632573127746582,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-1",
+          "retrieval_method": "dense",
+          "score": 0.6009606719017029,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-6",
+          "retrieval_method": "dense",
+          "score": 0.5972514748573303,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-21",
+          "retrieval_method": "dense",
+          "score": 0.5827967524528503,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-2",
+          "retrieval_method": "dense",
+          "score": 0.5719184279441833,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.3087582588195801,
+      "generation_seconds": 1.8354027271270752
+    },
+    "B_hybrid_rrf": {
+      "answer": "Tôi xin lỗi, Quyết định số 147/QĐ-TTg không đề cập đến quan điểm về phát triển du lịch bền vững và bao trùm trong các tài liệu được cung cấp.",
+      "retrieved_contexts": [
+        "THỦ TƯỚNG CHÍNH PHỦ\n____________\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n________________________________________________\n\nSố: 147/QĐ-TTg\n\nHà Nội, ngày 22 tháng 01 năm 2020\n\nQUYẾT ĐỊNH\nPhê duyệt Chiến lược phát triển du lịch Việt Nam\nđến năm 2030\n\n_____________\n\nTHỦ TƯỚNG CHÍNH PHỦ\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nXét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch,\n\nQUYẾT ĐỊNH:",
+        "ra yêu cầu linh hoạt ứng phó, đồng thời với chiến lược tiếp cận toàn diện, bền vững. Nhằm khơi thông mọi\n\nnguồn lực, đưa du lịch phát triển đột phá, khẳng định vị thế ngành kinh tế mũi nhọn, đòi hỏi Việt Nam phải có\n\nnhững quyết sách chiến lược và đồng bộ; ngành du lịch và cộng đồng doanh nghiệp phải thực sự đổi mới tư\n\nduy, cách tiếp cận và cách làm để chuyển đổi mô hình tăng trưởng và phương thức quản trị du lịch từ \"số",
+        "thẩm  quyền  các  nhiệm  vụ,  giải  pháp  đã  nêu  trong  Chiến  lược  Phát  triển  du  lịch  Việt  Nam  đến  năm  2030\n\n(Quyết định số 147/QĐ-TTg ngày 22 tháng 01 năm 2020 của Thủ tướng Chính phủ); rà soát, tháo gỡ theo\n\nthẩm quyền hoặc đề xuất cấp có thẩm quyền tháo gỡ các khó khăn, vướng mắc cản trở quá trình phát triển\n\ndu lịch theo các mục tiêu đã đề ra trong Chiến lược.\n\nVăn phòng Chính phủ thông báo để Bộ Văn hóa, Thể thao và Du lịch và các cơ quan liên quan biết, thực\n\nhiện./.",
+        "[2. Mục tiêu cụ thể > 2.2. Đến năm 2045]\nDu lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực\n\ntiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến\n\ndu  lịch  hấp  dẫn,  chất  lượng  cao,  đẳng  cấp  và  mang  đậm  bản  sắc  Việt  Nam;  phấn  đấu  đón  70  triệu  lượt\n\nkhách du lịch quốc tế.",
+        "Ngày lấy nội dung: 2026-09-20T15:42:18.087164\n\nNghị  quyết  Bộ  Chính  trị  về  phát  triển  du  lịch  Việt  Nam  trở  thành  ngành  kinh  tế  mũi  nhọn\n\ntrong kỷ nguyên mới\n\n.jpg)\n\nẢnh minh họa.\n\nCổng Thông tin điện tử Đảng Cộng sản Việt Nam trân trọng giới thiệu toàn văn Nghị quyết.\n\nDu lịch là ngành kinh tế tổng hợp, có tính liên ngành, liên vùng và xã hội hoá cao; có khả năng tạo ra giá trị"
+      ],
+      "sources": [
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-0",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-6",
+          "retrieval_method": "hybrid",
+          "score": 0.03125763125763126,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-4",
+          "retrieval_method": "hybrid",
+          "score": 0.031054405392392875,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-18",
+          "retrieval_method": "hybrid",
+          "score": 0.028991596638655463,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-1",
+          "retrieval_method": "hybrid",
+          "score": 0.016129032258064516,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.29616761207580566,
+      "generation_seconds": 1.8360469341278076
+    }
+  },
+  {
+    "case_index": 4,
+    "question": "Công văn số 1560/VPCP-KGVX chỉ đạo mở cửa lại hoạt động du lịch theo tinh thần nào?",
+    "expected_answer": "Công văn số 1560/VPCP-KGVX yêu cầu Bộ Văn hóa, Thể thao và Du lịch khẩn trương triển khai hiệu quả các giải pháp để mở cửa lại hoạt động du lịch trong điều kiện bình thường mới, trên tinh thần \"thích ứng linh hoạt, an toàn, kiểm soát hiệu quả dịch bệnh COVID-19\".",
+    "expected_context": "Chủ động xây dựng kế hoạch và tổ chức triển khai thực hiện các nhiệm vụ, giải pháp để đẩy nhanh tốc độ phục hồi du lịch thích ứng với tình hình mới; khẩn trương triển khai hiệu quả các giải pháp để mở cửa lại hoạt động du lịch trong điều kiện bình thường mới, trên tinh thần \"thích ứng linh hoạt, an toàn, kiểm soát hiệu quả dịch bệnh COVID-19\".",
+    "A_dense_only": {
+      "answer": "Công văn số 1560/VPCP-KGVX chỉ đạo mở cửa lại hoạt động du lịch theo tinh thần Công điện số 126/CĐ-TTg ngày 12 tháng 02 năm 2022 của Thủ tướng Chính phủ, đảm bảo tiến độ, hiệu quả [Document 2].",
+      "retrieved_contexts": [
+        "[bản chép lại từ ảnh scan phục vụ xử lý dữ liệu — không phải file ký số gốc]\n\nNguồn: https://vanban.chinhphu.vn/?pageid=27160&docid=205462\n\nBản gốc ký số (scan): https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/03/1560-kgvx.signed.pdf\n\nNgày lấy nội dung: 2026-09-20T16:59:45.325945\n\nCông văn số 1560/VPCP-KGVX của Văn phòng Chính phủ: V/v Chương trình phát triển du\n\nlịch Việt Nam giai đoạn 2021-2026\n\nVĂN PHÒNG CHÍNH PHỦ\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc",
+        "Độc lập - Tự do - Hạnh phúc\n\nSố: 1560/VPCP-KGVX\n\nV/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026\n\nHà Nội, ngày 12 tháng 3 năm 2022\n\nKính gửi: Bộ Văn hóa, Thể thao và Du lịch.\n\nXét đề nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình số 38/TTr-BVHTTDL ngày 07 tháng 02 năm\n\n2022 về Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026, Phó Thủ tướng Vũ Đức Đam yêu\n\ncầu Bộ Văn hóa, Thể thao và Du lịch:",
+        "lĩnh vực du lịch thuộc Chương trình phục hồi và phát triển kinh tế - xã hội (Nghị quyết số 11/NQ-CP ngày 30\n\ntháng  01  năm  2022  của  Chính  phủ),  bảo  đảm  tiến  độ,  hiệu  quả  theo  tinh  thần  Công  điện  số  126/CĐ-TTg\n\nngày 12 tháng 02 năm 2022 của Thủ tướng Chính phủ.\n\n3. Chủ trì, phối hợp với các bộ, ngành và địa phương chủ động xây dựng kế hoạch và tổ chức thực hiện theo",
+        "[I- QUAN ĐIỂM CHỈ ĐẠO]\nvững các trụ cột kinh tế - văn hoá - xã hội - môi trường, củng cố quốc phòng, an ninh, trật tự, an toàn xã hội,\n\nmở rộng ngoại giao văn hoá, hội nhập quốc tế.\n\n3.  Tái  cơ  cấu  ngành  du  lịch,  chuyển  mạnh  mô  hình  phát  triển  từ  số  lượng  sang  chất  lượng,  thông  minh,\n\nxanh, sáng tạo; tập trung nâng cao chất lượng, hiệu quả trải nghiệm, năng lực cạnh tranh của sản phẩm du",
+        "[4 Yêu cầu về chất lượng dịch vụ > 4.3 Dịch vụ tham quan > 4.3.1 Yêu cầu đối với chương trình tham quan du lịch cộng đồng]\nTCVN 13259:2020\n– Có các hoạt động trải nghiệm để khách du lịch được tham gia vào các hoạt động lao động/sinh hoạt\nthường ngày/hoạt động công ích của cộng đồng.\n– Có nội dung/hoạt động mang tính giáo dục về thiên nhiên, văn hóa bản địa(*).\n– Có yêu cầu/khuyến khích khách du lịch đi bộ hoặc sử dụng các phương tiện thô sơ, truyền thống"
+      ],
+      "sources": [
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-0",
+          "retrieval_method": "dense",
+          "score": 0.6473848223686218,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-1",
+          "retrieval_method": "dense",
+          "score": 0.5629495978355408,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-3",
+          "retrieval_method": "dense",
+          "score": 0.5270274877548218,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-10",
+          "retrieval_method": "dense",
+          "score": 0.5212653875350952,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/tcvn-13259-2020-du-lich-cong-dong-yeu-cau-chat-luong-dich-vu.md::chunk-31",
+          "retrieval_method": "dense",
+          "score": 0.5207687616348267,
+          "source": "tcvn-13259-2020-du-lich-cong-dong-yeu-cau-chat-luong-dich-vu.md"
+        }
+      ],
+      "retrieval_seconds": 0.34713101387023926,
+      "generation_seconds": 2.020266056060791
+    },
+    "B_hybrid_rrf": {
+      "answer": "Công văn số 1560/VPCP-KGVX chỉ đạo mở cửa lại hoạt động du lịch trên tinh thần \"thích ứng linh hoạt, an toàn, kiểm soát hiệu quả dịch bệnh COVID-19\" [Document 2].",
+      "retrieved_contexts": [
+        "[bản chép lại từ ảnh scan phục vụ xử lý dữ liệu — không phải file ký số gốc]\n\nNguồn: https://vanban.chinhphu.vn/?pageid=27160&docid=205462\n\nBản gốc ký số (scan): https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/03/1560-kgvx.signed.pdf\n\nNgày lấy nội dung: 2026-09-20T16:59:45.325945\n\nCông văn số 1560/VPCP-KGVX của Văn phòng Chính phủ: V/v Chương trình phát triển du\n\nlịch Việt Nam giai đoạn 2021-2026\n\nVĂN PHÒNG CHÍNH PHỦ\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc",
+        "Độc lập - Tự do - Hạnh phúc\n\nSố: 1560/VPCP-KGVX\n\nV/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026\n\nHà Nội, ngày 12 tháng 3 năm 2022\n\nKính gửi: Bộ Văn hóa, Thể thao và Du lịch.\n\nXét đề nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình số 38/TTr-BVHTTDL ngày 07 tháng 02 năm\n\n2022 về Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026, Phó Thủ tướng Vũ Đức Đam yêu\n\ncầu Bộ Văn hóa, Thể thao và Du lịch:",
+        "cầu Bộ Văn hóa, Thể thao và Du lịch:\n\n1. Chủ động xây dựng kế hoạch và tổ chức triển khai thực hiện các nhiệm vụ, giải pháp để đẩy nhanh tốc độ\n\nphục hồi du lịch thích ứng với tình hình mới; khẩn trương triển khai hiệu quả các giải pháp để mở cửa lại\n\nhoạt động du lịch trong điều kiện bình thường mới, trên tinh thần \"thích ứng linh hoạt, an toàn, kiểm soát hiệu\n\nquả dịch bệnh COVID-19\".\n\n2. Phối hợp với Bộ Kế hoạch và Đầu tư và các Bộ, ngành liên quan thực hiện các nội dung, nhiệm vụ trong",
+        "lĩnh vực du lịch thuộc Chương trình phục hồi và phát triển kinh tế - xã hội (Nghị quyết số 11/NQ-CP ngày 30\n\ntháng  01  năm  2022  của  Chính  phủ),  bảo  đảm  tiến  độ,  hiệu  quả  theo  tinh  thần  Công  điện  số  126/CĐ-TTg\n\nngày 12 tháng 02 năm 2022 của Thủ tướng Chính phủ.\n\n3. Chủ trì, phối hợp với các bộ, ngành và địa phương chủ động xây dựng kế hoạch và tổ chức thực hiện theo",
+        "[I- QUAN ĐIỂM CHỈ ĐẠO]\nvững các trụ cột kinh tế - văn hoá - xã hội - môi trường, củng cố quốc phòng, an ninh, trật tự, an toàn xã hội,\n\nmở rộng ngoại giao văn hoá, hội nhập quốc tế.\n\n3.  Tái  cơ  cấu  ngành  du  lịch,  chuyển  mạnh  mô  hình  phát  triển  từ  số  lượng  sang  chất  lượng,  thông  minh,\n\nxanh, sáng tạo; tập trung nâng cao chất lượng, hiệu quả trải nghiệm, năng lực cạnh tranh của sản phẩm du"
+      ],
+      "sources": [
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-0",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-1",
+          "retrieval_method": "hybrid",
+          "score": 0.03200204813108039,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-2",
+          "retrieval_method": "hybrid",
+          "score": 0.03128054740957967,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-3",
+          "retrieval_method": "hybrid",
+          "score": 0.031024531024531024,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-10",
+          "retrieval_method": "hybrid",
+          "score": 0.015625,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.3130776882171631,
+      "generation_seconds": 1.8733396530151367
+    }
+  },
+  {
+    "case_index": 5,
+    "question": "Phó Thủ tướng Vũ Đức Đam yêu cầu Bộ Văn hóa, Thể thao và Du lịch phối hợp với cơ quan nào để thực hiện nội dung du lịch trong Nghị quyết số 11/NQ-CP?",
+    "expected_answer": "Yêu cầu phối hợp với Bộ Kế hoạch và Đầu tư và các bộ, ngành liên quan để thực hiện các nội dung, nhiệm vụ trong lĩnh vực du lịch thuộc Chương trình phục hồi và phát triển kinh tế - xã hội theo Nghị quyết số 11/NQ-CP của Chính phủ.",
+    "expected_context": "Phối hợp với Bộ Kế hoạch và Đầu tư và các Bộ, ngành liên quan thực hiện các nội dung, nhiệm vụ trong lĩnh vực du lịch thuộc Chương trình phục hồi và phát triển kinh tế - xã hội (Nghị quyết số 11/NQ-CP ngày 30 tháng 01 năm 2022 của Chính phủ), bảo đảm tiến độ, hiệu quả theo tinh thần Công điện số 126/CĐ-TTg ngày 12 tháng 02 năm 2022 của Thủ tướng Chính phủ.",
+    "A_dense_only": {
+      "answer": "Tôi không thể trả lời câu hỏi này vì không có thông tin trong ngữ cảnh được cung cấp về Nghị quyết số 11/NQ-CP hoặc yêu cầu của Phó Thủ tướng Vũ Đức Đam liên quan đến việc phối hợp thực hiện nội dung du lịch trong nghị quyết này.",
+      "retrieved_contexts": [
+        "Độc lập - Tự do - Hạnh phúc\n\nSố: 1560/VPCP-KGVX\n\nV/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026\n\nHà Nội, ngày 12 tháng 3 năm 2022\n\nKính gửi: Bộ Văn hóa, Thể thao và Du lịch.\n\nXét đề nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình số 38/TTr-BVHTTDL ngày 07 tháng 02 năm\n\n2022 về Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026, Phó Thủ tướng Vũ Đức Đam yêu\n\ncầu Bộ Văn hóa, Thể thao và Du lịch:",
+        "[11. Bộ Nông nghiệp và Phát triển Nông thôn chủ trì, phối hợp với Bộ]\nVăn hóa, Thể thao và Du lịch lồng ghép các nội dung phát triển du lịch vào\nChương trình  mục tiêu quốc gia về xây dựng  nông thôn mới; xây dựng các\nsản phẩm nông nghiệp, các mô hình phát triển nông nghiệp sạch, nông nghiệp\ncông nghệ cao gắn với phát triển du lịch; phối hợp với Bộ Văn hóa, Thể thao\nvà  Du  lịch  và  Bộ  Tài  nguyên  và  Môi  trường  nghiên  cứu  xây  dựng  cơ  chế,",
+        "[12.  Bộ  Thông  tin  và  Truyền  thông chủ trì, phối hợp với Bộ Văn hóa,]\nThể thao và Du lịch tổ chức truyền thông, quảng bá về đất nước, con người và\ndu lịch Việt Nam; hoàn thiện hệ thống hạ tầng công nghệ thông tin, hỗ trợ đẩy\nnhanh thực hiện quá trình chuyển đổi số trong ngành du lịch, hình thành và\nphát triển hệ sinh thái du lịch thông minh.",
+        "[1. Bộ Văn hóa, Thể thao và Du lịch]\nd) Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Tài chính và các\ncơ quan liên quan xây dựng cơ chế, chính sách đầu tư, huy động các nguồn\nvốn, tài trợ trong và ngoài nước cho phát triển du lịch.\n\nđ)  Đầu  mối  tổng  hợp  tình  hình  thực  hiện  Chiến  lược,  định  kỳ  hàng\nnăm báo cáo Thủ tướng Chính phủ; tổ chức sơ kết việc thực hiện Chiến lược\nvào  năm  2025  và  đề  xuất  sửa  đổi,  bổ  sung  các  nhiệm  vụ  ưu  tiên  cho  giai\nđoạn tiếp theo.",
+        "[1. Bộ Văn hóa, Thể thao và Du lịch]\nc) Chủ trì, phối hợp với các bộ, ngành liên quan xây dựng, trình Thủ\ntướng Chính phủ phê duyệt và tổ chức triển khai thực hiện  quy hoạch phát\ntriển du lịch; chỉ đạo xây dựng, phê duyệt theo thẩm quyền và tổ chức thực\nhiện các nhiệm vụ trọng tâm ưu tiên khác của Chiến lược."
+      ],
+      "sources": [
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-1",
+          "retrieval_method": "dense",
+          "score": 0.6819038391113281,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-64",
+          "retrieval_method": "dense",
+          "score": 0.6571295261383057,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-66",
+          "retrieval_method": "dense",
+          "score": 0.632373571395874,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-53",
+          "retrieval_method": "dense",
+          "score": 0.6158895492553711,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-52",
+          "retrieval_method": "dense",
+          "score": 0.6107455492019653,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        }
+      ],
+      "retrieval_seconds": 0.3369636535644531,
+      "generation_seconds": 2.0980935096740723
+    },
+    "B_hybrid_rrf": {
+      "answer": "Phó Thủ tướng Vũ Đức Đam yêu cầu Bộ Văn hóa, Thể thao và Du lịch chủ trì, phối hợp với các bộ, ngành và địa phương để thực hiện nội dung du lịch trong Nghị quyết số 11/NQ-CP. [Document 2]",
+      "retrieved_contexts": [
+        "Độc lập - Tự do - Hạnh phúc\n\nSố: 1560/VPCP-KGVX\n\nV/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026\n\nHà Nội, ngày 12 tháng 3 năm 2022\n\nKính gửi: Bộ Văn hóa, Thể thao và Du lịch.\n\nXét đề nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình số 38/TTr-BVHTTDL ngày 07 tháng 02 năm\n\n2022 về Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026, Phó Thủ tướng Vũ Đức Đam yêu\n\ncầu Bộ Văn hóa, Thể thao và Du lịch:",
+        "[11. Bộ Nông nghiệp và Phát triển Nông thôn chủ trì, phối hợp với Bộ]\nVăn hóa, Thể thao và Du lịch lồng ghép các nội dung phát triển du lịch vào\nChương trình  mục tiêu quốc gia về xây dựng  nông thôn mới; xây dựng các\nsản phẩm nông nghiệp, các mô hình phát triển nông nghiệp sạch, nông nghiệp\ncông nghệ cao gắn với phát triển du lịch; phối hợp với Bộ Văn hóa, Thể thao\nvà  Du  lịch  và  Bộ  Tài  nguyên  và  Môi  trường  nghiên  cứu  xây  dựng  cơ  chế,",
+        "lĩnh vực du lịch thuộc Chương trình phục hồi và phát triển kinh tế - xã hội (Nghị quyết số 11/NQ-CP ngày 30\n\ntháng  01  năm  2022  của  Chính  phủ),  bảo  đảm  tiến  độ,  hiệu  quả  theo  tinh  thần  Công  điện  số  126/CĐ-TTg\n\nngày 12 tháng 02 năm 2022 của Thủ tướng Chính phủ.\n\n3. Chủ trì, phối hợp với các bộ, ngành và địa phương chủ động xây dựng kế hoạch và tổ chức thực hiện theo",
+        "[1. Bộ Văn hóa, Thể thao và Du lịch]\nc) Chủ trì, phối hợp với các bộ, ngành liên quan xây dựng, trình Thủ\ntướng Chính phủ phê duyệt và tổ chức triển khai thực hiện  quy hoạch phát\ntriển du lịch; chỉ đạo xây dựng, phê duyệt theo thẩm quyền và tổ chức thực\nhiện các nhiệm vụ trọng tâm ưu tiên khác của Chiến lược.",
+        "[1. Bộ Văn hóa, Thể thao và Du lịch]\nd) Chủ trì, phối hợp với Bộ Kế hoạch và Đầu tư, Bộ Tài chính và các\ncơ quan liên quan xây dựng cơ chế, chính sách đầu tư, huy động các nguồn\nvốn, tài trợ trong và ngoài nước cho phát triển du lịch.\n\nđ)  Đầu  mối  tổng  hợp  tình  hình  thực  hiện  Chiến  lược,  định  kỳ  hàng\nnăm báo cáo Thủ tướng Chính phủ; tổ chức sơ kết việc thực hiện Chiến lược\nvào  năm  2025  và  đề  xuất  sửa  đổi,  bổ  sung  các  nhiệm  vụ  ưu  tiên  cho  giai\nđoạn tiếp theo."
+      ],
+      "sources": [
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-1",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-64",
+          "retrieval_method": "hybrid",
+          "score": 0.0315136476426799,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-3",
+          "retrieval_method": "hybrid",
+          "score": 0.030798389007344232,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-52",
+          "retrieval_method": "hybrid",
+          "score": 0.030536130536130537,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-53",
+          "retrieval_method": "hybrid",
+          "score": 0.030330882352941176,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        }
+      ],
+      "retrieval_seconds": 0.32235145568847656,
+      "generation_seconds": 1.693518877029419
+    }
+  },
+  {
+    "case_index": 6,
+    "question": "Nghị quyết số 26-NQ/TW xác định mục tiêu đến năm 2030 hình thành 3 cực tăng trưởng du lịch nào?",
+    "expected_answer": "Nghị quyết số 26-NQ/TW xác định hình thành và phát triển mạnh 3 cực tăng trưởng du lịch gồm: Hà Nội, Thành phố Hồ Chí Minh và Đà Nẵng.",
+    "expected_context": "Hình thành và phát triển mạnh 3 cực tăng trưởng du lịch: Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; xây dựng 10 trung tâm du lịch trọng điểm quốc gia và 20 khu du lịch quốc gia có thương hiệu quốc tế.",
+    "A_dense_only": {
+      "answer": "Nghị quyết số 26-NQ/TW xác định mục tiêu đến năm 2030 hình thành 3 cực tăng trưởng du lịch là Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng. [Document 1]",
+      "retrieved_contexts": [
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\nkhách du lịch đạt 80 - 90 tỉ USD.\n\n- Phát triển mạnh 3 cực tăng trưởng du lịch Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; 10 trung tâm du lịch\n\ntrọng  điểm;  20  khu  du  lịch  quốc  gia;  15  tập  đoàn,  tổng  công  ty  du  lịch  có  thương  hiệu  mạnh  và  sức  cạnh\n\ntranh quốc tế; bảo đảm khoảng 1,5 triệu buồng lưu trú du lịch. Toàn ngành tạo ra khoảng 2,3 triệu việc làm\n\ntrực tiếp và 3,5 triệu việc làm gián tiếp.",
+        "[2. Đến năm 2030]\nDu  lịch  thực  sự  là  ngành  kinh  tế  mũi  nhọn  và  phát  triển  bền  vững.\nViệt Nam trở thành điểm đến đặc biệt hấp dẫn, thuộc nhóm 30 quốc gia có\nnăng lực cạnh tranh du lịch hàng đầu thế giới, đáp ứng đầy đủ yêu cầu và mục\ntiêu phát triển bền vững.\n\n-  Tổng  thu  từ  khách  du  lịch:  Đạt  3.100  -  3.200  nghìn  tỷ  đồng  (tương\nđương 130  -  135  tỷ  USD),  tăng  trưởng bình quân 11  -  12%/năm;  đóng góp\ntrực tiếp vào GDP đạt 15 - 17%.",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\ntrực tiếp và 3,5 triệu việc làm gián tiếp.\n\n- Hình thành đồng bộ hệ sinh thái du lịch thông minh, cơ sở dữ liệu du lịch quốc gia, nền tảng số du lịch quốc\n\ngia.",
+        "[I- QUAN ĐIỂM CHỈ ĐẠO]\nvững các trụ cột kinh tế - văn hoá - xã hội - môi trường, củng cố quốc phòng, an ninh, trật tự, an toàn xã hội,\n\nmở rộng ngoại giao văn hoá, hội nhập quốc tế.\n\n3.  Tái  cơ  cấu  ngành  du  lịch,  chuyển  mạnh  mô  hình  phát  triển  từ  số  lượng  sang  chất  lượng,  thông  minh,\n\nxanh, sáng tạo; tập trung nâng cao chất lượng, hiệu quả trải nghiệm, năng lực cạnh tranh của sản phẩm du",
+        "[2. Mục tiêu cụ thể > 2.2. Đến năm 2045]\nDu lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực\n\ntiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến\n\ndu  lịch  hấp  dẫn,  chất  lượng  cao,  đẳng  cấp  và  mang  đậm  bản  sắc  Việt  Nam;  phấn  đấu  đón  70  triệu  lượt\n\nkhách du lịch quốc tế."
+      ],
+      "sources": [
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-16",
+          "retrieval_method": "dense",
+          "score": 0.6603406071662903,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-9",
+          "retrieval_method": "dense",
+          "score": 0.613031804561615,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-17",
+          "retrieval_method": "dense",
+          "score": 0.6022891998291016,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-10",
+          "retrieval_method": "dense",
+          "score": 0.5975244045257568,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-18",
+          "retrieval_method": "dense",
+          "score": 0.5903446674346924,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.30397820472717285,
+      "generation_seconds": 1.7542669773101807
+    },
+    "B_hybrid_rrf": {
+      "answer": "Nghị quyết số 26-NQ/TW xác định mục tiêu đến năm 2030 hình thành 3 cực tăng trưởng du lịch là Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng. [Document 1]",
+      "retrieved_contexts": [
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\nkhách du lịch đạt 80 - 90 tỉ USD.\n\n- Phát triển mạnh 3 cực tăng trưởng du lịch Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; 10 trung tâm du lịch\n\ntrọng  điểm;  20  khu  du  lịch  quốc  gia;  15  tập  đoàn,  tổng  công  ty  du  lịch  có  thương  hiệu  mạnh  và  sức  cạnh\n\ntranh quốc tế; bảo đảm khoảng 1,5 triệu buồng lưu trú du lịch. Toàn ngành tạo ra khoảng 2,3 triệu việc làm\n\ntrực tiếp và 3,5 triệu việc làm gián tiếp.",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\ntrực tiếp và 3,5 triệu việc làm gián tiếp.\n\n- Hình thành đồng bộ hệ sinh thái du lịch thông minh, cơ sở dữ liệu du lịch quốc gia, nền tảng số du lịch quốc\n\ngia.",
+        "[2. Đến năm 2030]\nDu  lịch  thực  sự  là  ngành  kinh  tế  mũi  nhọn  và  phát  triển  bền  vững.\nViệt Nam trở thành điểm đến đặc biệt hấp dẫn, thuộc nhóm 30 quốc gia có\nnăng lực cạnh tranh du lịch hàng đầu thế giới, đáp ứng đầy đủ yêu cầu và mục\ntiêu phát triển bền vững.\n\n-  Tổng  thu  từ  khách  du  lịch:  Đạt  3.100  -  3.200  nghìn  tỷ  đồng  (tương\nđương 130  -  135  tỷ  USD),  tăng  trưởng bình quân 11  -  12%/năm;  đóng góp\ntrực tiếp vào GDP đạt 15 - 17%.",
+        "THỦ TƯỚNG CHÍNH PHỦ\n____________\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n________________________________________________\n\nSố: 147/QĐ-TTg\n\nHà Nội, ngày 22 tháng 01 năm 2020\n\nQUYẾT ĐỊNH\nPhê duyệt Chiến lược phát triển du lịch Việt Nam\nđến năm 2030\n\n_____________\n\nTHỦ TƯỚNG CHÍNH PHỦ\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nXét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch,\n\nQUYẾT ĐỊNH:",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\n- Du lịch Việt Nam là ngành kinh tế mũi nhọn đóng góp trực tiếp từ 10 - 12% GDP, giữ vững vị thế nhóm đầu\n\nkhu vực Đông Nam Á về quy mô và tốc độ tăng trưởng; phấn đấu đón 45 - 50 triệu lượt khách quốc tế, phục\n\nvụ 160 triệu lượt khách nội địa đặt trọng tâm vào thị trường khách chi tiêu cao, lưu trú dài ngày; tổng thu từ\n\nkhách du lịch đạt 80 - 90 tỉ USD."
+      ],
+      "sources": [
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-16",
+          "retrieval_method": "hybrid",
+          "score": 0.03177805800756621,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-17",
+          "retrieval_method": "hybrid",
+          "score": 0.03149801587301587,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-9",
+          "retrieval_method": "hybrid",
+          "score": 0.03128054740957967,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-0",
+          "retrieval_method": "hybrid",
+          "score": 0.031024531024531024,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-15",
+          "retrieval_method": "hybrid",
+          "score": 0.029211087420042643,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.30242323875427246,
+      "generation_seconds": 1.9169185161590576
+    }
+  },
+  {
+    "case_index": 7,
+    "question": "Tầm nhìn phát triển du lịch đến năm 2045 theo Nghị quyết số 26-NQ/TW là gì?",
+    "expected_answer": "Đến năm 2045, Việt Nam trở thành quốc gia phát triển du lịch hàng đầu thế giới, thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch tốt nhất; đóng góp trực tiếp từ 14 - 15% GDP và đón trên 70 triệu lượt khách quốc tế.",
+    "expected_context": "Tầm nhìn đến năm 2045: Việt Nam trở thành quốc gia phát triển du lịch hàng đầu thế giới, thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch tốt nhất. Đóng góp trực tiếp từ 14 - 15% GDP, đón trên 70 triệu lượt khách quốc tế.",
+    "A_dense_only": {
+      "answer": "Theo Nghị quyết Bộ Chính trị về phát triển du lịch Việt Nam trở thành ngành kinh tế mũi nhọn trong kỷ nguyên mới, đến năm 2045, du lịch Việt Nam sẽ phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực tiếp từ 14 - 15% GDP. Du lịch Việt Nam sẽ thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới, là điểm đến du lịch hấp dẫn, chất lượng cao, đẳng cấp và mang đậm bản sắc Việt Nam, phấn đấu đón 70 triệu lượt khách du lịch quốc tế. [Document 1]",
+      "retrieved_contexts": [
+        "[2. Mục tiêu cụ thể > 2.2. Đến năm 2045]\nDu lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực\n\ntiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến\n\ndu  lịch  hấp  dẫn,  chất  lượng  cao,  đẳng  cấp  và  mang  đậm  bản  sắc  Việt  Nam;  phấn  đấu  đón  70  triệu  lượt\n\nkhách du lịch quốc tế.",
+        "THỦ TƯỚNG CHÍNH PHỦ\n____________\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n________________________________________________\n\nSố: 147/QĐ-TTg\n\nHà Nội, ngày 22 tháng 01 năm 2020\n\nQUYẾT ĐỊNH\nPhê duyệt Chiến lược phát triển du lịch Việt Nam\nđến năm 2030\n\n_____________\n\nTHỦ TƯỚNG CHÍNH PHỦ\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nXét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch,\n\nQUYẾT ĐỊNH:",
+        "[bản chép lại từ ảnh scan phục vụ xử lý dữ liệu — không phải file ký số gốc]\n\nNguồn: https://vanban.chinhphu.vn/?pageid=27160&docid=205462\n\nBản gốc ký số (scan): https://datafiles.chinhphu.vn/cpp/files/vbpq/2022/03/1560-kgvx.signed.pdf\n\nNgày lấy nội dung: 2026-09-20T16:59:45.325945\n\nCông văn số 1560/VPCP-KGVX của Văn phòng Chính phủ: V/v Chương trình phát triển du\n\nlịch Việt Nam giai đoạn 2021-2026\n\nVĂN PHÒNG CHÍNH PHỦ\n\nCỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM\n\nĐộc lập - Tự do - Hạnh phúc",
+        "[2. Mục tiêu cụ thể > 2.1. Đến năm 2030]\nkhách du lịch đạt 80 - 90 tỉ USD.\n\n- Phát triển mạnh 3 cực tăng trưởng du lịch Hà Nội, Thành phố Hồ Chí Minh, Đà Nẵng; 10 trung tâm du lịch\n\ntrọng  điểm;  20  khu  du  lịch  quốc  gia;  15  tập  đoàn,  tổng  công  ty  du  lịch  có  thương  hiệu  mạnh  và  sức  cạnh\n\ntranh quốc tế; bảo đảm khoảng 1,5 triệu buồng lưu trú du lịch. Toàn ngành tạo ra khoảng 2,3 triệu việc làm\n\ntrực tiếp và 3,5 triệu việc làm gián tiếp.",
+        "Độc lập - Tự do - Hạnh phúc\n\nSố: 1560/VPCP-KGVX\n\nV/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026\n\nHà Nội, ngày 12 tháng 3 năm 2022\n\nKính gửi: Bộ Văn hóa, Thể thao và Du lịch.\n\nXét đề nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình số 38/TTr-BVHTTDL ngày 07 tháng 02 năm\n\n2022 về Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026, Phó Thủ tướng Vũ Đức Đam yêu\n\ncầu Bộ Văn hóa, Thể thao và Du lịch:"
+      ],
+      "sources": [
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-18",
+          "retrieval_method": "dense",
+          "score": 0.6765064597129822,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-0",
+          "retrieval_method": "dense",
+          "score": 0.630928099155426,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-0",
+          "retrieval_method": "dense",
+          "score": 0.5977029800415039,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-16",
+          "retrieval_method": "dense",
+          "score": 0.5939076542854309,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-1",
+          "retrieval_method": "dense",
+          "score": 0.5898708701133728,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        }
+      ],
+      "retrieval_seconds": 0.30400824546813965,
+      "generation_seconds": 2.12719464302063
+    },
+    "B_hybrid_rrf": {
+      "answer": "Tầm nhìn phát triển du lịch đến năm 2045 theo Nghị quyết số 26-NQ/TW là: Du lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực tiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến du lịch hấp dẫn, chất lượng cao, đẳng cấp và mang đậm bản sắc Việt Nam; phấn đấu đón 70 triệu lượt khách du lịch quốc tế. [Document 5]",
+      "retrieved_contexts": [
+        "THỦ TƯỚNG CHÍNH PHỦ\n____________\n\nCỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM\nĐộc lập - Tự do - Hạnh phúc\n________________________________________________\n\nSố: 147/QĐ-TTg\n\nHà Nội, ngày 22 tháng 01 năm 2020\n\nQUYẾT ĐỊNH\nPhê duyệt Chiến lược phát triển du lịch Việt Nam\nđến năm 2030\n\n_____________\n\nTHỦ TƯỚNG CHÍNH PHỦ\n\nCăn cứ Luật Tổ chức Chính phủ ngày 19 tháng 6 năm 2015;\n\nCăn cứ Luật Du lịch ngày 19 tháng 6 năm 2017;\n\nXét đề nghị của Bộ trưởng Bộ Văn hóa, Thể thao và Du lịch,\n\nQUYẾT ĐỊNH:",
+        "[2. Mục tiêu cụ thể > 2.2. Đến năm 2045]\nDu lịch Việt Nam phát triển hiện đại, bền vững, khẳng định vai trò động lực của nền kinh tế, đóng góp trực\n\ntiếp từ 14 - 15% GDP; thuộc nhóm 30 quốc gia có năng lực cạnh tranh du lịch hàng đầu thế giới; là điểm đến\n\ndu  lịch  hấp  dẫn,  chất  lượng  cao,  đẳng  cấp  và  mang  đậm  bản  sắc  Việt  Nam;  phấn  đấu  đón  70  triệu  lượt\n\nkhách du lịch quốc tế.",
+        "gia tăng lớn, thúc đẩy tiêu dùng, mở rộng thị trường dịch vụ, tạo việc làm, chuyển dịch cơ cấu kinh tế, bảo\n\ntồn và phát huy giá trị văn hoá, tài nguyên thiên nhiên, quảng bá hình ảnh đất nước, con người Việt Nam,\n\nnâng  cao  vị  thế  và  sức  mạnh  mềm  quốc  gia.  Sau  gần  10  năm  thực  hiện  Nghị  quyết  số  08-NQ/TW,  ngày\n\n16/01/2017 của Bộ Chính trị về phát triển du lịch trở thành ngành kinh tế mũi nhọn, nhận thức của các cấp,",
+        "Độc lập - Tự do - Hạnh phúc\n\nSố: 1560/VPCP-KGVX\n\nV/v Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026\n\nHà Nội, ngày 12 tháng 3 năm 2022\n\nKính gửi: Bộ Văn hóa, Thể thao và Du lịch.\n\nXét đề nghị của Bộ Văn hóa, Thể thao và Du lịch tại Tờ trình số 38/TTr-BVHTTDL ngày 07 tháng 02 năm\n\n2022 về Chương trình phát triển du lịch Việt Nam giai đoạn 2021 - 2026, Phó Thủ tướng Vũ Đức Đam yêu\n\ncầu Bộ Văn hóa, Thể thao và Du lịch:",
+        "[IV- TỔ CHỨC THỰC HIỆN]\nlịch, tăng cường kiểm tra, giám sát quá trình thực hiện Nghị quyết tại địa phương.\n\n6. Đảng uỷ Chính phủ chủ trì, phối hợp với Ban Tuyên giáo Trung ương, Ban Chính sách, chiến lược Trung\n\nương, Văn phòng Trung ương Đảng theo dõi, đánh giá kết quả thực hiện Nghị quyết; thiết lập cơ chế theo\n\ndõi, giám sát, kiểm tra, đánh giá việc thực hiện Nghị quyết, báo cáo Bộ Chính trị theo quy định.\n\nNghị quyết này phổ biến đến chi bộ.\n\nTải Nghị quyết số 26-NQ/TW tại đây"
+      ],
+      "sources": [
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-0",
+          "retrieval_method": "hybrid",
+          "score": 0.031754032258064516,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-18",
+          "retrieval_method": "hybrid",
+          "score": 0.03131881575727918,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-2",
+          "retrieval_method": "hybrid",
+          "score": 0.03057889822595705,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        },
+        {
+          "id": "legal/cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md::chunk-1",
+          "retrieval_method": "hybrid",
+          "score": 0.029877369007803793,
+          "source": "cong-van-1560-vpcp-kgvx-chuong-trinh-phat-trien-du-lich-2021-2026.md"
+        },
+        {
+          "id": "legal/nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md::chunk-88",
+          "retrieval_method": "hybrid",
+          "score": 0.01639344262295082,
+          "source": "nghi-quyet-bo-chinh-tri-du-lich-mui-nhon.md"
+        }
+      ],
+      "retrieval_seconds": 0.3102421760559082,
+      "generation_seconds": 2.114370107650757
+    }
+  },
+  {
+    "case_index": 8,
+    "question": "Thời điểm nào được xem là đẹp nhất để du lịch Đà Nẵng?",
+    "expected_answer": "Đầu tháng 4 đến giữa tháng 9 là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè khá đông đúc và đắt đỏ. Tháng 4 còn là mùa cây rừng thay lá vàng lá đỏ trên bán đảo Sơn Trà.",
+    "expected_context": "Đầu tháng 4 đến giữa tháng 9: Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 làmùa cây rừng thay lávàng, lá đỏ trên bán đảo Sơn Trà.",
+    "A_dense_only": {
+      "answer": "Thời điểm đẹp nhất để du lịch Đà Nẵng là từ đầu tháng 4 đến giữa tháng 9. [Document 1]",
+      "retrieved_contexts": [
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n**Đầu tháng 4 đến giữa tháng 9** : Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 là [mùa cây rừng thay lá](https://vnexpress.net/ban-dao-son-tra-mua-thay-ao-3746607.html) vàng, lá đỏ trên bán đảo Sơn Trà.\n**Giữa tháng 9 đến cuối tháng 12** : Trời không còn nắng nóng, bắt đầu lác đác mưa rào nhưng không kéo dài. Mùa cao điểm đã qua, nên vé máy bay, dịch vụ lưu trú, ăn uống có giá cả hợp lý.",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n**Cuối tháng 12 đến cuối tháng 3** : Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân.",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\nĐà Nẵng là nơi chuyển tiếp đan xen giữa khí hậu miền Bắc và miền Nam, với tính trội là khí hậu nhiệt đới ở phía Nam. Mỗi năm có hai mùa rõ rệt: mùa khô từ tháng 1 đến tháng 7 và mùa mưa từ tháng 8 đến tháng 12, đôi khi có những đợt rét mùa đông nhưng không kéo dài và trời không rét đậm.",
+        "[Đà Nẵng]\nThứ sáu, 3/6/2022, 09:00 (GMT+7)\n  * Điều hướng nhanh\n  * [Đà Nẵng mùa nào đẹp](https://vnexpress.net/cam-nang-du-lich-da-nang-4470111.html#rjmjvl8iitj)\n  * [Di chuyển](https://vnexpress.net/cam-nang-du-lich-da-nang-4470111.html#qsi17u58m5p)\n  * [Khách sạn, resort](https://vnexpress.net/cam-nang-du-lich-da-nang-4470111.html#8wi2nwxr07)\n  * [Chơi đâu](https://vnexpress.net/cam-nang-du-lich-da-nang-4470111.html#fz4g7jqjeeg)",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\nNếu đang lên kế hoạch đến Đà Nẵng năm 2022, bạn có thể tham khảo một số sự kiện sắp tới: Lễ hội \"Tuyệt vời Đà Nẵng 2022\" kéo dài suốt tháng 7; Lễ Hội Giao lưu Văn hóa Việt Nam – Nhật Bản 15/7; Lễ hội giao lưu văn hóa Việt Nam - Hàn Quốc từ 1 đến 4/9; Lễ hội Du lịch Golf Đà Nẵng 1/9; Lễ Hội \"Đà Nẵng Chào Năm Mới 2023\" vào 1/12..."
+      ],
+      "sources": [
+        {
+          "id": "news/article_01.md::chunk-8",
+          "retrieval_method": "dense",
+          "score": 0.7925955057144165,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-7",
+          "retrieval_method": "dense",
+          "score": 0.7712904810905457,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-6",
+          "retrieval_method": "dense",
+          "score": 0.7185894250869751,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-3",
+          "retrieval_method": "dense",
+          "score": 0.6848037838935852,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-10",
+          "retrieval_method": "dense",
+          "score": 0.6804393529891968,
+          "source": "article_01.md"
+        }
+      ],
+      "retrieval_seconds": 0.3916928768157959,
+      "generation_seconds": 1.5914068222045898
+    },
+    "B_hybrid_rrf": {
+      "answer": "Thời điểm đẹp nhất để du lịch Đà Nẵng là từ đầu tháng 4 đến giữa tháng 9 [1].",
+      "retrieved_contexts": [
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n**Đầu tháng 4 đến giữa tháng 9** : Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 là [mùa cây rừng thay lá](https://vnexpress.net/ban-dao-son-tra-mua-thay-ao-3746607.html) vàng, lá đỏ trên bán đảo Sơn Trà.\n**Giữa tháng 9 đến cuối tháng 12** : Trời không còn nắng nóng, bắt đầu lác đác mưa rào nhưng không kéo dài. Mùa cao điểm đã qua, nên vé máy bay, dịch vụ lưu trú, ăn uống có giá cả hợp lý.",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n**Cuối tháng 12 đến cuối tháng 3** : Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân.",
+        "[Phú Quốc > Phú Quốc mùa nào đẹp?]\nThời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời. Mùa này thích hợp cho những tour du lịch nghỉ dưỡng, không thích hợp cho khách đi bụi hoặc đi phượt.",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\nNếu đang lên kế hoạch đến Đà Nẵng năm 2022, bạn có thể tham khảo một số sự kiện sắp tới: Lễ hội \"Tuyệt vời Đà Nẵng 2022\" kéo dài suốt tháng 7; Lễ Hội Giao lưu Văn hóa Việt Nam – Nhật Bản 15/7; Lễ hội giao lưu văn hóa Việt Nam - Hàn Quốc từ 1 đến 4/9; Lễ hội Du lịch Golf Đà Nẵng 1/9; Lễ Hội \"Đà Nẵng Chào Năm Mới 2023\" vào 1/12...",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n![](https://i1-dulich.vnecdn.net/2022/06/02/da-nang-1-4913-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=mNEpnicM3GKbMoBJ2htqUQ)Đà Nẵng trong sương. Ảnh: Nguyễn Sanh Quốc Huy"
+      ],
+      "sources": [
+        {
+          "id": "news/article_01.md::chunk-8",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-7",
+          "retrieval_method": "hybrid",
+          "score": 0.03225806451612903,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-6",
+          "retrieval_method": "hybrid",
+          "score": 0.030158730158730156,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-10",
+          "retrieval_method": "hybrid",
+          "score": 0.02967032967032967,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-9",
+          "retrieval_method": "hybrid",
+          "score": 0.02964426877470356,
+          "source": "article_01.md"
+        }
+      ],
+      "retrieval_seconds": 0.271484375,
+      "generation_seconds": 1.8307926654815674
+    }
+  },
+  {
+    "case_index": 9,
+    "question": "Bán đảo Sơn Trà có loài linh trưởng đặc hữu nào được bảo tồn nghiêm ngặt?",
+    "expected_answer": "Bán đảo Sơn Trà là nơi sinh sống của loài voọc chà vá chân nâu, được mệnh danh là 'nữ hoàng linh trưởng' với quần thể khoảng 300 - 400 con và được bảo tồn nghiêm ngặt.",
+    "expected_context": "Trong đó, voọc chà vá chân nâu được mệnh danh là \"nữ hoàng linh trưởng\" trên bán đảo Sơn Trà, với quần thể khoảng 300 - 400 con, được bảo tồn nghiêm ngặt.",
+    "A_dense_only": {
+      "answer": "Bán đảo Sơn Trà có loài voọc chà vá chân nâu được mệnh danh là \"nữ hoàng linh trưởng\" và được bảo tồn nghiêm ngặt [Document 1].",
+      "retrieved_contexts": [
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nBán đảo cũng là nơi sinh sống của hàng trăm loài động vật. Trong đó, voọc chà vá chân nâu được mệnh danh là \"nữ hoàng linh trưởng\" trên bán đảo Sơn Trà, với quần thể khoảng 300 - 400 con, được bảo tồn nghiêm ngặt. Để phát hiện ra những đàn voọc này, ngoài việc quan sát màu sắc phát ra từ bộ lông, du khách cần chú ý lắng nghe khi chúng kêu hoặc nhảy từ cành này sang cành khác.",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nĐược ví như viên ngọc quý của Đà Nẵng, bán đảo Sơn Trà đây sở hữu cánh rừng nguyên sinh rộng lớn và nhiều bãi tắm đẹp như Tiên Sa, Đá Đen, bãi Bụt... Con đường trên bán đảo uốn lượn đi qua các vị trí có thể ngắm toàn cảnh thành phố từ trên cao như đỉnh Bàn Cờ, chùa Linh Ứng, nhà Vọng Cảnh, hải đăng Sơn Trà, trạm radar \"mắt thần Đông Dương\".",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nTrên bán đảo có các nhánh đường phụ xuống nhiều bãi biển đẹp như Bãi Bụt, Bãi Nam, Bãi Đá Đen, Bãi Đa, [Mũi Nghê](https://vnexpress.net/mui-nghe-ho-boi-tu-nhien-giua-bien-4447183.html)... Ngoài ra, ở khu vực này còn có [cây đa Sơn Trà](https://vnexpress.net/cay-da-hon-800-nam-tuoi-tren-ban-dao-son-tra-4455731.html) và cây đa \"con nai\" nghìn năm tuổi với hình thù độc đáo thích hợp chụp ảnh.",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nLưu ý, du khách cần giữ gìn cảnh quan thiên nhiên, không cho động vật hoang dã ăn. Các tuyến đường bị cấm sử dụng xe tay ga gồm: đoạn từ đường Hoàng Sa đi cây đa nghìn năm; nút giao đường Yết Kiêu đi đỉnh Bàn Cờ - Bãi Bắc; nút giao đường Yết Kiêu đi Suối Ôm và ngược lại. Đây là ba tuyến chính người dân và du khách thường xuyên lên tham quan bán đảo Sơn Trà. Xe máy loại tay côn và số được đi lại bình thường.",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\n![](https://i1-dulich.vnecdn.net/2022/06/02/Son-Tra-2238-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=FScJfxXuNeEPtYatWhzlZg)Tượng Phật Bà Quan thế âm Bồ Tát tại chùa Linh Ứng - Bãi Bụt, hướng nhìn về bán đảo, cách trung tâm Đà Nẵng khoảng 10 km. Ảnh: _Võ Văn Việt_"
+      ],
+      "sources": [
+        {
+          "id": "news/article_01.md::chunk-25",
+          "retrieval_method": "dense",
+          "score": 0.6824209690093994,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-21",
+          "retrieval_method": "dense",
+          "score": 0.48172175884246826,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-24",
+          "retrieval_method": "dense",
+          "score": 0.4741412401199341,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-26",
+          "retrieval_method": "dense",
+          "score": 0.4450148344039917,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-30",
+          "retrieval_method": "dense",
+          "score": 0.4402676224708557,
+          "source": "article_01.md"
+        }
+      ],
+      "retrieval_seconds": 0.26198482513427734,
+      "generation_seconds": 1.9592218399047852
+    },
+    "B_hybrid_rrf": {
+      "answer": "Bán đảo Sơn Trà có loài voọc chà vá chân nâu được mệnh danh là \"nữ hoàng linh trưởng\" và được bảo tồn nghiêm ngặt. Quần thể loài này khoảng 300 - 400 con. [Document 1]",
+      "retrieved_contexts": [
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nBán đảo cũng là nơi sinh sống của hàng trăm loài động vật. Trong đó, voọc chà vá chân nâu được mệnh danh là \"nữ hoàng linh trưởng\" trên bán đảo Sơn Trà, với quần thể khoảng 300 - 400 con, được bảo tồn nghiêm ngặt. Để phát hiện ra những đàn voọc này, ngoài việc quan sát màu sắc phát ra từ bộ lông, du khách cần chú ý lắng nghe khi chúng kêu hoặc nhảy từ cành này sang cành khác.",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nĐược ví như viên ngọc quý của Đà Nẵng, bán đảo Sơn Trà đây sở hữu cánh rừng nguyên sinh rộng lớn và nhiều bãi tắm đẹp như Tiên Sa, Đá Đen, bãi Bụt... Con đường trên bán đảo uốn lượn đi qua các vị trí có thể ngắm toàn cảnh thành phố từ trên cao như đỉnh Bàn Cờ, chùa Linh Ứng, nhà Vọng Cảnh, hải đăng Sơn Trà, trạm radar \"mắt thần Đông Dương\".",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nNgoài ra, bán đảo Sơn Trà còn hấp dẫn ở những bãi biển hoang sơ. Nằm ẩn mình trong một eo biển rất đẹp, Bãi Bụt (Vịnh Bụt) là nơi giao hòa giữa biển cả với núi rừng. Ngoài ra còn có Bãi Bắc là điểm đến mới phát triển của du lịch Đà Nẵng, nằm trong vịnh biển phía bắc Sơn Trà. Vùng biển quanh bán đảo có nhiều rạn san hô đẹp, nhưng tình trạng xả rác và hành vi thiếu ý thức của một số người lặn ngắm san hô như dẫm, đạp, bẻ... gây hư hại nghiêm trọng.",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\n![](https://i1-dulich.vnecdn.net/2022/06/02/Son-Tra-2238-1654169672.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=FScJfxXuNeEPtYatWhzlZg)Tượng Phật Bà Quan thế âm Bồ Tát tại chùa Linh Ứng - Bãi Bụt, hướng nhìn về bán đảo, cách trung tâm Đà Nẵng khoảng 10 km. Ảnh: _Võ Văn Việt_",
+        "[Đà Nẵng > Bán đảo Sơn Trà]\nTrên bán đảo có các nhánh đường phụ xuống nhiều bãi biển đẹp như Bãi Bụt, Bãi Nam, Bãi Đá Đen, Bãi Đa, [Mũi Nghê](https://vnexpress.net/mui-nghe-ho-boi-tu-nhien-giua-bien-4447183.html)... Ngoài ra, ở khu vực này còn có [cây đa Sơn Trà](https://vnexpress.net/cay-da-hon-800-nam-tuoi-tren-ban-dao-son-tra-4455731.html) và cây đa \"con nai\" nghìn năm tuổi với hình thù độc đáo thích hợp chụp ảnh."
+      ],
+      "sources": [
+        {
+          "id": "news/article_01.md::chunk-25",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-21",
+          "retrieval_method": "hybrid",
+          "score": 0.03225806451612903,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-29",
+          "retrieval_method": "hybrid",
+          "score": 0.031024531024531024,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-30",
+          "retrieval_method": "hybrid",
+          "score": 0.031009615384615385,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-24",
+          "retrieval_method": "hybrid",
+          "score": 0.030798389007344232,
+          "source": "article_01.md"
+        }
+      ],
+      "retrieval_seconds": 0.2929511070251465,
+      "generation_seconds": 1.861346960067749
+    }
+  },
+  {
+    "case_index": 10,
+    "question": "Thời điểm lý tưởng nhất trong năm để du lịch Phú Quốc là vào những tháng nào?",
+    "expected_answer": "Thời điểm lý tưởng nhất để du lịch Phú Quốc là từ khoảng tháng 11 đến tháng 4 năm sau, khi thời tiết là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm.",
+    "expected_context": "Thời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời.",
+    "A_dense_only": {
+      "answer": "Thời điểm lý tưởng nhất để du lịch Phú Quốc là từ khoảng tháng 11 đến tháng 4 năm sau. [Document 1]",
+      "retrieved_contexts": [
+        "[Phú Quốc > Phú Quốc mùa nào đẹp?]\nThời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời. Mùa này thích hợp cho những tour du lịch nghỉ dưỡng, không thích hợp cho khách đi bụi hoặc đi phượt.",
+        "[Phú Quốc > Phú Quốc mùa nào đẹp?]\nTừ khoảng tháng 5 đến tháng 10 là mùa mưa, đôi khi có bão nhưng Phú Quốc vẫn đông khách do rơi vào khoảng thời gian nghỉ hè. Nếu đi Phú Quốc mùa này, bạn nên đến vào khoảng cuối tháng 4, lúc này khách vẫn chưa đông và thời tiết còn đẹp, giá cả cũng không tăng quá cao như mùa cao điểm. Tháng 10 cũng là thời điểm giao mùa nên ít mưa.",
+        "[Phú Quốc > Đặc sản Phú Quốc]\nNếu là tín đồ của ấm thực, bạn nên đi Phú Quốc vào khoảng tháng 5 đến tháng 11. Đây là mùa đi biển của dân địa phương nên sẽ có nhiều hải sản tươi sống, giá thành cũng sẽ rẻ hơn.",
+        "[Phú Quốc > Lưu ý]\nKhông nên đi Phú Quốc vào mùa mưa bão.\nKhách sạn, nhà nghỉ mùa cao điểm thường cháy phòng, bạn nên đặt trước khoảng một tháng.\nMột số địa điểm trên Phú Quốc không cho du khách vào tham quan, bạn cần tuyệt đối tuân thủ, không đi vào khu vực cấm.\nPhà và tàu cao tốc ra vào đảo thường chạy theo giờ cố định. Bạn nên hỏi kỹ thời gian hoạt động để không bị lỡ tàu, xe.\nNếu say sóng, bạn nên chuẩn bị một ít thuốc chống say vì phải di chuyển nhiều trên biển.",
+        "[Phú Quốc > Phú Quốc mùa nào đẹp?]\n![](https://i1-dulich.vnecdn.net/2022/04/08/du-lich-Phu-Quoc-03-1254-1649405349.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=L3hmY-ilsuGlFWPrVQF4Gg)"
+      ],
+      "sources": [
+        {
+          "id": "news/article_02.md::chunk-6",
+          "retrieval_method": "dense",
+          "score": 0.7758346199989319,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-7",
+          "retrieval_method": "dense",
+          "score": 0.7469213008880615,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-55",
+          "retrieval_method": "dense",
+          "score": 0.7324483394622803,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-75",
+          "retrieval_method": "dense",
+          "score": 0.6510066390037537,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-8",
+          "retrieval_method": "dense",
+          "score": 0.6465139389038086,
+          "source": "article_02.md"
+        }
+      ],
+      "retrieval_seconds": 0.27208375930786133,
+      "generation_seconds": 1.7173850536346436
+    },
+    "B_hybrid_rrf": {
+      "answer": "Thời điểm lý tưởng nhất để du lịch Phú Quốc là từ khoảng tháng 11 đến tháng 4 năm sau [5].",
+      "retrieved_contexts": [
+        "[Phú Quốc > Phú Quốc mùa nào đẹp?]\nThời điểm lý tưởng nhất để du lịch Đảo Ngọc là từ khoảng tháng 11 đến tháng 4 năm sau. Đây là mùa khô ở phương Nam, trời ít mưa, biển lặng, sóng êm và nắng ấm thích hợp cho các hoạt động du lịch ngoài trời. Mùa này thích hợp cho những tour du lịch nghỉ dưỡng, không thích hợp cho khách đi bụi hoặc đi phượt.",
+        "[Phú Quốc > Phú Quốc mùa nào đẹp?]\nTừ khoảng tháng 5 đến tháng 10 là mùa mưa, đôi khi có bão nhưng Phú Quốc vẫn đông khách do rơi vào khoảng thời gian nghỉ hè. Nếu đi Phú Quốc mùa này, bạn nên đến vào khoảng cuối tháng 4, lúc này khách vẫn chưa đông và thời tiết còn đẹp, giá cả cũng không tăng quá cao như mùa cao điểm. Tháng 10 cũng là thời điểm giao mùa nên ít mưa.",
+        "[Phú Quốc > Lưu ý]\nKhông nên đi Phú Quốc vào mùa mưa bão.\nKhách sạn, nhà nghỉ mùa cao điểm thường cháy phòng, bạn nên đặt trước khoảng một tháng.\nMột số địa điểm trên Phú Quốc không cho du khách vào tham quan, bạn cần tuyệt đối tuân thủ, không đi vào khu vực cấm.\nPhà và tàu cao tốc ra vào đảo thường chạy theo giờ cố định. Bạn nên hỏi kỹ thời gian hoạt động để không bị lỡ tàu, xe.\nNếu say sóng, bạn nên chuẩn bị một ít thuốc chống say vì phải di chuyển nhiều trên biển.",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n**Đầu tháng 4 đến giữa tháng 9** : Đây là thời gian đẹp nhất để du lịch Đà Nẵng, song cũng là mùa cao điểm du lịch hè, khá đông đúc và đắt đỏ. Tháng 4 là [mùa cây rừng thay lá](https://vnexpress.net/ban-dao-son-tra-mua-thay-ao-3746607.html) vàng, lá đỏ trên bán đảo Sơn Trà.\n**Giữa tháng 9 đến cuối tháng 12** : Trời không còn nắng nóng, bắt đầu lác đác mưa rào nhưng không kéo dài. Mùa cao điểm đã qua, nên vé máy bay, dịch vụ lưu trú, ăn uống có giá cả hợp lý.",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n**Cuối tháng 12 đến cuối tháng 3** : Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân."
+      ],
+      "sources": [
+        {
+          "id": "news/article_02.md::chunk-6",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-7",
+          "retrieval_method": "hybrid",
+          "score": 0.031754032258064516,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-75",
+          "retrieval_method": "hybrid",
+          "score": 0.029910714285714284,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-8",
+          "retrieval_method": "hybrid",
+          "score": 0.029418126757516764,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-7",
+          "retrieval_method": "hybrid",
+          "score": 0.016129032258064516,
+          "source": "article_01.md"
+        }
+      ],
+      "retrieval_seconds": 0.2764298915863037,
+      "generation_seconds": 1.7444226741790771
+    }
+  },
+  {
+    "case_index": 11,
+    "question": "Có hai tuyến tàu cao tốc nào từ đất liền ra đảo Phú Quốc và tuyến nào nhanh hơn?",
+    "expected_answer": "Có hai tuyến tàu cao tốc ra Phú Quốc là từ Rạch Giá (khoảng 120 km mất 2 tiếng 30 phút) và từ Hà Tiên (khoảng 50 km mất 1 tiếng 30 phút). Tuyến từ Hà Tiên di chuyển nhanh hơn và giá vé rẻ hơn.",
+    "expected_context": "Có hai tuyến đi Phú Quốc, hành trình từ Rạch Giá là khoảng 120 km mất 2 tiếng 30 phút, còn hành trình từ Hà Tiên là khoảng 50 km mất 1 tiếng 30 phút. Bạn nên xuất phát từ Hà Tiên để rút ngắn thời gian di chuyển trên biển, và giá vé cũng rẻ hơn.",
+    "A_dense_only": {
+      "answer": "Có hai tuyến tàu cao tốc từ đất liền ra đảo Phú Quốc là từ Rạch Giá và từ Hà Tiên [Document 1]. Tuyến từ Hà Tiên nhanh hơn, mất khoảng 1 tiếng 30 phút, trong khi tuyến từ Rạch Giá mất khoảng 2 tiếng 30 phút [Document 1].",
+      "retrieved_contexts": [
+        "[Phú Quốc > Di chuyển]\nNhững khách lần đầu đi Phú Quốc thì nên đi tàu cao tốc để tránh bị say sóng. Có hai tuyến đi Phú Quốc, hành trình từ Rạch Giá là khoảng 120 km mất 2 tiếng 30 phút, còn hành trình từ Hà Tiên là khoảng 50 km mất 1 tiếng 30 phút. Bạn nên xuất phát từ Hà Tiên để rút ngắn thời gian di chuyển trên biển, và giá vé cũng rẻ hơn. Hãy gọi trước cho bến để mua vé, đảm bảo lịch trình theo đúng kế hoạch.",
+        "[Phú Quốc > Di chuyển]\nNgoài các chuyến bay thẳng, du khách có nhiều lựa chọn thú vị hơn khi đi từ TP HCM đến Phú Quốc như xe máy, ôtô, xe khách, tàu cao tốc hoặc phà.",
+        "[Phú Quốc > Di chuyển]\nPhương tiện đi lại phổ biến nhất trên đảo Phú Quốc là taxi và xe máy. Thông thường, các hãng taxi và dịch vụ thuê xe cung cấp gói khám phá nam đảo, bắc đảo trong nửa ngày hoặc một ngày với giá từ 500.000 - 700.000 đồng. Tài xế sẽ đưa khách tới các điểm tham quan nổi tiếng nhất",
+        "[Phú Quốc > Di chuyển]\nVietnam Airlines, Bamboo Airways và Vietjet Air cung cấp các chuyến bay thẳng đến Phú Quốc từ Hà Nội, Hải Phòng, Thanh Hóa, Vinh, Huế, Đà Nẵng, Nha Trang, Đà Lạt, Buôn Ma Thuột... Giá vé máy bay nếu may mắn bạn có thể săn được vé rẻ trên dưới một triệu đồng cho cả chiều đi lẫn về.",
+        "[Phú Quốc > Lưu ý]\nKhông nên đi Phú Quốc vào mùa mưa bão.\nKhách sạn, nhà nghỉ mùa cao điểm thường cháy phòng, bạn nên đặt trước khoảng một tháng.\nMột số địa điểm trên Phú Quốc không cho du khách vào tham quan, bạn cần tuyệt đối tuân thủ, không đi vào khu vực cấm.\nPhà và tàu cao tốc ra vào đảo thường chạy theo giờ cố định. Bạn nên hỏi kỹ thời gian hoạt động để không bị lỡ tàu, xe.\nNếu say sóng, bạn nên chuẩn bị một ít thuốc chống say vì phải di chuyển nhiều trên biển."
+      ],
+      "sources": [
+        {
+          "id": "news/article_02.md::chunk-12",
+          "retrieval_method": "dense",
+          "score": 0.6590670943260193,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-11",
+          "retrieval_method": "dense",
+          "score": 0.5615456700325012,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-15",
+          "retrieval_method": "dense",
+          "score": 0.5181054472923279,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-9",
+          "retrieval_method": "dense",
+          "score": 0.5128180384635925,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-75",
+          "retrieval_method": "dense",
+          "score": 0.5056347250938416,
+          "source": "article_02.md"
+        }
+      ],
+      "retrieval_seconds": 0.30504369735717773,
+      "generation_seconds": 1.91916823387146
+    },
+    "B_hybrid_rrf": {
+      "answer": "Có hai tuyến tàu cao tốc từ đất liền ra đảo Phú Quốc là từ Rạch Giá và từ Hà Tiên [Document 1].\n\nTuyến từ Hà Tiên nhanh hơn, mất khoảng 1 tiếng 30 phút, trong khi tuyến từ Rạch Giá mất khoảng 2 tiếng 30 phút [Document 1].",
+      "retrieved_contexts": [
+        "[Phú Quốc > Di chuyển]\nNhững khách lần đầu đi Phú Quốc thì nên đi tàu cao tốc để tránh bị say sóng. Có hai tuyến đi Phú Quốc, hành trình từ Rạch Giá là khoảng 120 km mất 2 tiếng 30 phút, còn hành trình từ Hà Tiên là khoảng 50 km mất 1 tiếng 30 phút. Bạn nên xuất phát từ Hà Tiên để rút ngắn thời gian di chuyển trên biển, và giá vé cũng rẻ hơn. Hãy gọi trước cho bến để mua vé, đảm bảo lịch trình theo đúng kế hoạch.",
+        "[Phú Quốc > Di chuyển]\nNgoài các chuyến bay thẳng, du khách có nhiều lựa chọn thú vị hơn khi đi từ TP HCM đến Phú Quốc như xe máy, ôtô, xe khách, tàu cao tốc hoặc phà.",
+        "[Phú Quốc > Lưu ý]\nKhông nên đi Phú Quốc vào mùa mưa bão.\nKhách sạn, nhà nghỉ mùa cao điểm thường cháy phòng, bạn nên đặt trước khoảng một tháng.\nMột số địa điểm trên Phú Quốc không cho du khách vào tham quan, bạn cần tuyệt đối tuân thủ, không đi vào khu vực cấm.\nPhà và tàu cao tốc ra vào đảo thường chạy theo giờ cố định. Bạn nên hỏi kỹ thời gian hoạt động để không bị lỡ tàu, xe.\nNếu say sóng, bạn nên chuẩn bị một ít thuốc chống say vì phải di chuyển nhiều trên biển.",
+        "[2. Tập trung huy động nguồn lực triển khai một số nhiệm vụ đột phá]\na) Về phát triển kết cấu hạ tầng: Đẩy nhanh tiến độ đầu tư mới sân bay\nLong Thành, Chu Lai...; nâng cấp, mở rộng các sân bay tại các địa bàn trọng\nđiểm và tiềm năng, trước hết tại các sân bay như Nội Bài, Đà Nẵng, Tân Sơn\nNhất,  Cam Ranh, Phú Quốc,  Phú Bài, Vân Đồn…; đầu tư xây dựng một số\ncảng biển du lịch quốc tế và các tuyến đường bộ kết nối với các khu du lịch\nquốc gia.",
+        "[Phú Quốc > Di chuyển]\nPhương tiện đi lại phổ biến nhất trên đảo Phú Quốc là taxi và xe máy. Thông thường, các hãng taxi và dịch vụ thuê xe cung cấp gói khám phá nam đảo, bắc đảo trong nửa ngày hoặc một ngày với giá từ 500.000 - 700.000 đồng. Tài xế sẽ đưa khách tới các điểm tham quan nổi tiếng nhất"
+      ],
+      "sources": [
+        {
+          "id": "news/article_02.md::chunk-12",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-11",
+          "retrieval_method": "hybrid",
+          "score": 0.03225806451612903,
+          "source": "article_02.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-75",
+          "retrieval_method": "hybrid",
+          "score": 0.031009615384615385,
+          "source": "article_02.md"
+        },
+        {
+          "id": "legal/quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md::chunk-47",
+          "retrieval_method": "hybrid",
+          "score": 0.02877846790890269,
+          "source": "quyet-dinh-147-qd-ttg-chien-luoc-phat-trien-du-lich-den-2030.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-15",
+          "retrieval_method": "hybrid",
+          "score": 0.015873015873015872,
+          "source": "article_02.md"
+        }
+      ],
+      "retrieval_seconds": 0.276031494140625,
+      "generation_seconds": 2.100933074951172
+    }
+  },
+  {
+    "case_index": 12,
+    "question": "Thời gian nào trong năm được xem là lý tưởng nhất để dạo chơi tại phố cổ Hội An?",
+    "expected_answer": "Ba tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An vì khi đó nắng không quá gắt, tiết trời mát mẻ và thi thoảng có mưa nhỏ.",
+    "expected_context": "Ba tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ.",
+    "A_dense_only": {
+      "answer": "Ba tháng đầu năm là thời gian lý tưởng nhất để dạo chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ [Document 1].",
+      "retrieved_contexts": [
+        "[Hội An > Hội An mùa nào đẹp?]\nKhí hậu Hội An đan xen khí hậu giữa miền Nam và miền Bắc, rõ rệt mùa mưa và mùa khô. Mỗi mùa phố cổ lại có những nét đẹp riêng.\nBa tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ. \nTừ tháng 4 đến tháng 6 là giai đoạn gay gắt của mùa khô, nhưng thời tiết Hội An khá dễ chịu, do nằm ở phía nam dãy Trường Sơn. Đây cũng là mùa cao điểm du lịch.",
+        "[Hội An > Hội An mùa nào đẹp?]\n![](https://i1-dulich.vnecdn.net/2022/06/01/Hoi-An-3-8647-1648804825-3089-1241-4455-1654057242.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=ohuonxHjmqOCRYcPu_F03g)Mùa mưa, không ít khách du lịch vẫn tìm đến Hội An để có những trải nghiệm khác lạ. Ảnh: Đỗ Anh Vũ\nTháng 7 vẫn đang là mùa khô. Sang tháng 8 và 9 là thời điểm giao mùa. Trời vẫn nắng nhẹ, bắt đầu có mưa lác đác và se lạnh về đêm.",
+        "[Hội An > Hội An mùa nào đẹp?]\nBa tháng cuối năm là mùa mưa ở Hội An, trời ít khi nắng, mưa nặng hạt và đôi khi có lũ lụt. Những du khách từ miền Nam đến Hội An mùa lạnh nên chuẩn bị trang phục phù hợp, tránh để sức khỏe bị ảnh hưởng.",
+        "[Hội An > Di chuyển]\n![90 giây đi khắp các điểm hấp dẫn ở phố cổ Hội An](https://iv1.vnecdn.net/dulich/images/web/2018/07/09/90-giay-di-khap-cac-diem-hap-dan-o-pho-co-hoi-an-1531127147.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=z-ydiaPanVtzcPAx15NIcA)\n90 giây đi khắp các điểm hấp dẫn ở phố cổ Hội An\n90 giây đi khắp Hội An. Video: _Phong Vinh_",
+        "[Hội An > Chơi đâu?]\n![](https://i1-dulich.vnecdn.net/2022/06/01/ca-phe-lo-gach-Hoi-An-9062-164-5239-4421-1654057244.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=8GGwn8voJlh1s41FILbAVA)Cà phê Lò Gạch Cũ. Ảnh: Duy Hậu\n> Phố cổ\nChỉ riêng khu phố cổ Hội An cũng là một nơi đi mỏi chân cũng không hết điểm check-in cho các bạn trẻ. Mỗi con đường, góc phố cổ kính, dãy nhà quét ve vàng nghệ lại là một điểm dừng chân chụp ảnh thú vị, tìm hiểu văn hóa địa phương..."
+      ],
+      "sources": [
+        {
+          "id": "news/article_03.md::chunk-6",
+          "retrieval_method": "dense",
+          "score": 0.7098929286003113,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-7",
+          "retrieval_method": "dense",
+          "score": 0.6385209560394287,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-8",
+          "retrieval_method": "dense",
+          "score": 0.6284607648849487,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-12",
+          "retrieval_method": "dense",
+          "score": 0.6266162395477295,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-20",
+          "retrieval_method": "dense",
+          "score": 0.6152439117431641,
+          "source": "article_03.md"
+        }
+      ],
+      "retrieval_seconds": 0.28790760040283203,
+      "generation_seconds": 2.4703569412231445
+    },
+    "B_hybrid_rrf": {
+      "answer": "Ba tháng đầu năm là thời gian lý tưởng nhất để dạo chơi tại phố cổ Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ. [Document 1]",
+      "retrieved_contexts": [
+        "[Hội An > Hội An mùa nào đẹp?]\nKhí hậu Hội An đan xen khí hậu giữa miền Nam và miền Bắc, rõ rệt mùa mưa và mùa khô. Mỗi mùa phố cổ lại có những nét đẹp riêng.\nBa tháng đầu năm là thời gian lý tưởng nhất để rong chơi tại Hội An khi nắng không quá gắt, trời mát mẻ, thi thoảng có mưa nhỏ. \nTừ tháng 4 đến tháng 6 là giai đoạn gay gắt của mùa khô, nhưng thời tiết Hội An khá dễ chịu, do nằm ở phía nam dãy Trường Sơn. Đây cũng là mùa cao điểm du lịch.",
+        "[Hội An > Chơi đâu?]\nVề đêm ở phố cổ, bạn có thể dạo các cây cầu ngắm phố lên đèn, nghe nhạc sống trong các quán bar, cà phê, xem các vở diễn nổi tiếng như Sương Sớm, À Ố Show, Teh Dar hay Ký ức Hội An.\n> Bãi biển\n_Bãi biển An Bàng_ thuộc phường Cẩm An, cách trung tâm thành phố Hội An 3 km. Biển trong xanh, sạch, không quá xô bồ, không gian vừa đủ để bạn cảm nhận sự thư thái. Năm 2011, bãi biển An Bàng được _CNN_ bình chọn là một trong 50 bãi biển đẹp nhất thế giới.",
+        "[Đà Nẵng > Đà Nẵng mùa nào đẹp]\n**Cuối tháng 12 đến cuối tháng 3** : Tiết trời mát mẻ và dễ chịu, lý tưởng nhất cho các chuyến du xuân. Giá cả dịch vụ khách sạn, ăn uống vào thời gian này được cho là bình ổn nhất trong năm. Lưu ý, du khách nên mang thêm áo khoác mỏng vì trời có thể se lạnh vào buổi tối, thi thoảng có mưa xuân.",
+        "[Hội An > Hội An mùa nào đẹp?]\n![](https://i1-dulich.vnecdn.net/2022/06/01/Hoi-An-3-8647-1648804825-3089-1241-4455-1654057242.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=ohuonxHjmqOCRYcPu_F03g)Mùa mưa, không ít khách du lịch vẫn tìm đến Hội An để có những trải nghiệm khác lạ. Ảnh: Đỗ Anh Vũ\nTháng 7 vẫn đang là mùa khô. Sang tháng 8 và 9 là thời điểm giao mùa. Trời vẫn nắng nhẹ, bắt đầu có mưa lác đác và se lạnh về đêm.",
+        "[Hội An > Hội An mùa nào đẹp?]\nBa tháng cuối năm là mùa mưa ở Hội An, trời ít khi nắng, mưa nặng hạt và đôi khi có lũ lụt. Những du khách từ miền Nam đến Hội An mùa lạnh nên chuẩn bị trang phục phù hợp, tránh để sức khỏe bị ảnh hưởng."
+      ],
+      "sources": [
+        {
+          "id": "news/article_03.md::chunk-6",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-23",
+          "retrieval_method": "hybrid",
+          "score": 0.03128054740957967,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-7",
+          "retrieval_method": "hybrid",
+          "score": 0.030158730158730156,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-7",
+          "retrieval_method": "hybrid",
+          "score": 0.016129032258064516,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-8",
+          "retrieval_method": "hybrid",
+          "score": 0.015873015873015872,
+          "source": "article_03.md"
+        }
+      ],
+      "retrieval_seconds": 0.28505516052246094,
+      "generation_seconds": 1.6773221492767334
+    }
+  },
+  {
+    "case_index": 13,
+    "question": "Muốn đi từ Đà Nẵng vào Hội An bằng xe bus công cộng thì bắt tuyến xe nào và giá vé bao nhiêu?",
+    "expected_answer": "Bạn có thể bắt tuyến xe bus số 01 lộ trình Đà Nẵng - Hội An, chạy từ 5h30 đến 17h50 hàng ngày với giá vé 20.000 đồng mỗi người.",
+    "expected_context": "Nếu đi xe bus bạn bắt tuyến số 01 Đà Nẵng - Hội An chạy từ 5h30 đến 17h50 hàng ngày với giá vé 20.000 đồng mỗi người.",
+    "A_dense_only": {
+      "answer": "Để đi từ Đà Nẵng vào Hội An bằng xe bus công cộng, bạn có thể bắt tuyến số 01 Đà Nẵng - Hội An. Giá vé là 20.000 đồng mỗi người [Document 1].",
+      "retrieved_contexts": [
+        "[Hội An > Di chuyển]\nNếu đi xe bus bạn bắt tuyến số 01 Đà Nẵng - Hội An chạy từ 5h30 đến 17h50 hàng ngày với giá vé 20.000 đồng mỗi người. Nếu đi ba người trở lên và muốn di chuyển nhanh gọn từ sân bay thẳng tới Hội An, bạn nên gọi taxi, xe khách trung chuyển với giá từ 250.000 đồng một chuyến.\nĐể di chuyển ở Hội An bạn có thể sử dụng xe đạp, xe máy thuê từ chính các khách sạn, homestay mình ở. Xe đạp giá thuê khoảng 30.000 đồng một ngày, xe máy là 120.000 đồng.",
+        "[Hội An > Di chuyển]\nĐến sân bay Đà Nẵng, bạn có thể chọn đi xe khách trung chuyển từ sân bay, hoặc đi bus, taxi, ôtô riêng để tới trung tâm Hội An. Những người thích tự do đi lại có thể thuê xe máy từ TP Đà Nẵng để vui chơi ở Hội An, với giá khoảng 150.000 đồng một ngày.",
+        "[Hội An > Di chuyển]\nCác hãng hàng không Vietnam Airlines, Vietjet Air, Bamboo Airlines... đều khai thác đường bay tới Đà Nẵng. Giá vé khứ hồi cho một người từ Hà Nội hoặc TP HCM đến Đà Nẵng trung bình khoảng 1,5 triệu đồng. Bạn nên mua vé sớm để có giá tốt và giờ khởi hành thuận tiện.",
+        "[Đà Nẵng > Di chuyển]\nDư dả thời gian hơn, du khách có thể **đi tàu hỏa** để trải nghiệm ngắm cảnh dọc đường, đặc biệt là đoạn qua [đèo Hải Vân](https://vnexpress.net/deo-hai-van-nhin-tu-toa-tau-lua-3520920.html) nếu bạn đi từ phía bắc vào. Vé tàu từ Hà Nội hoặc TP HCM đến Đà Nẵng có giá từ khoảng 600.000 đồng đến 1.100.000 đồng một chiều, tương ứng với ghế ngồi mềm có điều hòa và giường nằm khoang bốn điều hòa. Thời gian di chuyển khoảng 17 đến 18 tiếng.",
+        "[Hội An > Chơi đâu?]\n> Cù Lao Chàm\nNếu bạn xuất phát từ Hội An có 2 phương tiện để ra [Cù Lao Chàm](https://vnexpress.net/cu-lao-cham-noi-bien-xanh-vay-goi-3224575.html) là cano và tàu gỗ. Cano thường xuất bến ở Cửa Đại và chỉ khoảng 20 phút sau là bạn có mặt tại Cù Lao Chàm, giá vé là 150.000 - 200.000 đồng mỗi người. Còn đi tàu gỗ xuất phát từ bến Bạch Đằng thì mất gần 2 tiếng nhưng giá rẻ hơn, khoảng 50.000 - 80.000 đồng mỗi người, nếu mang theo xe máy thì thêm 30.000 đồng mỗi chiếc."
+      ],
+      "sources": [
+        {
+          "id": "news/article_03.md::chunk-11",
+          "retrieval_method": "dense",
+          "score": 0.7417872548103333,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-10",
+          "retrieval_method": "dense",
+          "score": 0.6745667457580566,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-9",
+          "retrieval_method": "dense",
+          "score": 0.6260977983474731,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-12",
+          "retrieval_method": "dense",
+          "score": 0.6248705387115479,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-27",
+          "retrieval_method": "dense",
+          "score": 0.6032317876815796,
+          "source": "article_03.md"
+        }
+      ],
+      "retrieval_seconds": 0.2828481197357178,
+      "generation_seconds": 2.0961039066314697
+    },
+    "B_hybrid_rrf": {
+      "answer": "Để đi từ Đà Nẵng vào Hội An bằng xe bus công cộng, bạn có thể bắt tuyến số 01 Đà Nẵng - Hội An [Document 1]. Giá vé là 20.000 đồng mỗi người [Document 1].",
+      "retrieved_contexts": [
+        "[Hội An > Di chuyển]\nNếu đi xe bus bạn bắt tuyến số 01 Đà Nẵng - Hội An chạy từ 5h30 đến 17h50 hàng ngày với giá vé 20.000 đồng mỗi người. Nếu đi ba người trở lên và muốn di chuyển nhanh gọn từ sân bay thẳng tới Hội An, bạn nên gọi taxi, xe khách trung chuyển với giá từ 250.000 đồng một chuyến.\nĐể di chuyển ở Hội An bạn có thể sử dụng xe đạp, xe máy thuê từ chính các khách sạn, homestay mình ở. Xe đạp giá thuê khoảng 30.000 đồng một ngày, xe máy là 120.000 đồng.",
+        "[Hội An > Di chuyển]\nĐến sân bay Đà Nẵng, bạn có thể chọn đi xe khách trung chuyển từ sân bay, hoặc đi bus, taxi, ôtô riêng để tới trung tâm Hội An. Những người thích tự do đi lại có thể thuê xe máy từ TP Đà Nẵng để vui chơi ở Hội An, với giá khoảng 150.000 đồng một ngày.",
+        "[Hội An > Chơi đâu?]\n> Cù Lao Chàm\nNếu bạn xuất phát từ Hội An có 2 phương tiện để ra [Cù Lao Chàm](https://vnexpress.net/cu-lao-cham-noi-bien-xanh-vay-goi-3224575.html) là cano và tàu gỗ. Cano thường xuất bến ở Cửa Đại và chỉ khoảng 20 phút sau là bạn có mặt tại Cù Lao Chàm, giá vé là 150.000 - 200.000 đồng mỗi người. Còn đi tàu gỗ xuất phát từ bến Bạch Đằng thì mất gần 2 tiếng nhưng giá rẻ hơn, khoảng 50.000 - 80.000 đồng mỗi người, nếu mang theo xe máy thì thêm 30.000 đồng mỗi chiếc.",
+        "[Đà Nẵng > Di chuyển]\nTại Đà Nẵng, khách nên thuê xe máy hoặc ôtô để di chuyển linh hoạt. Việc thuê xe khá thuận tiện, có thể giao nhận tại sân bay hoặc khách sạn với giá trung bình 100.000 đồng cho xe máy và khoảng 1.000.000 đồng cho xe ôtô trong một ngày.",
+        "[Phú Quốc > Di chuyển]\nỞ đây có bus hoạt động hầu hết trên các tuyến, điểm tham quan từ sân bay, tới thị trấn Dương Đông, cảng An Thới với giá vé từ 10.000 - 40.000 đồng. Tuy nhiên các điểm du lịch cách xa trục đường chính, vì vậy đi bằng xe bus sẽ bất tiện."
+      ],
+      "sources": [
+        {
+          "id": "news/article_03.md::chunk-11",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-10",
+          "retrieval_method": "hybrid",
+          "score": 0.03200204813108039,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_03.md::chunk-27",
+          "retrieval_method": "hybrid",
+          "score": 0.03076923076923077,
+          "source": "article_03.md"
+        },
+        {
+          "id": "news/article_01.md::chunk-15",
+          "retrieval_method": "hybrid",
+          "score": 0.029211087420042643,
+          "source": "article_01.md"
+        },
+        {
+          "id": "news/article_02.md::chunk-17",
+          "retrieval_method": "hybrid",
+          "score": 0.016129032258064516,
+          "source": "article_02.md"
+        }
+      ],
+      "retrieval_seconds": 0.2586178779602051,
+      "generation_seconds": 2.0210368633270264
+    }
+  },
+  {
+    "case_index": 14,
+    "question": "Mùa lúa chín ở Sa Pa diễn ra vào những tháng nào và mùa đông Sa Pa có gì đặc biệt?",
+    "expected_answer": "Mùa lúa chín ở Sa Pa diễn ra vào mùa thu từ tháng 9 đến tháng 11. Vào mùa đông từ tháng 12 đến tháng 2 năm sau, du khách may mắn có thể săn tuyết và băng giá trên các đỉnh núi.",
+    "expected_context": "Mùa thu kéo dài từ tháng 9 đến tháng 11, Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. Mùa đông đến từ tháng 12 đến tháng 2 năm sau, nếu may mắn bạn có thể \"săn\" tuyết, băng giá trên những đỉnh núi.",
+    "A_dense_only": {
+      "answer": "Mùa lúa chín ở Sa Pa diễn ra vào cuối hè [Document 2] và kéo dài từ tháng 9 đến tháng 11 (mùa thu) [Document 1].\n\nMùa đông ở Sa Pa kéo dài từ tháng 12 đến tháng 2 năm sau. Nếu may mắn, du khách có thể \"săn\" tuyết và băng giá trên những đỉnh núi [Document 1].",
+      "retrieved_contexts": [
+        "[Sa Pa > Sa Pa mùa nào đẹp]\nMùa thu kéo dài từ tháng 9 đến tháng 11, Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. Mùa đông đến từ tháng 12 đến tháng 2 năm sau, nếu may mắn bạn có thể \"săn\" tuyết, băng giá trên những đỉnh núi.\n[ ![Sa-Pa-mai-anh-dao-8046-1650277614.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)",
+        "[Sa Pa > Sa Pa mùa nào đẹp]\nSa Pa có khí hậu mát mẻ nên phù hợp với những chuyến du lịch quanh năm. Bạn chỉ cần tránh mùa mưa bão từ tháng 6 đến đầu tháng 8, bởi thời tiết cực đoan có thể gây lũ ống, lũ quét, sạt lở...\nTừ tháng 2 đến tháng 5, mùa xuân Sa Pa rực rỡ với trăm hoa khoe sắc như mai anh đào, đào, mận... Mùa hè từ tháng 6 đến tháng 8 là thời điểm khách du lịch đến Sa Pa để trốn nóng, ngắm những thửa ruộng bậc thang xanh mát.",
+        "[Sa Pa > Chơi đâu]\nẤn tượng nhất ở đây ngoài đời sống dân tộc địa phương còn là những thửa ruộng bậc thang trải rộng khắp các sườn đồi núi. Cuối hè là thời điểm lúa chín nhuộm vàng cả một vùng sơn cước. Vì thế nếu bạn có nhiều thời gian hãy dành một ngày ở đây để trải nghiệm nếp sống bản địa. Vé vào bản 70.000 đồng một người.\n[ ![Ta-Van-Sa-Pa-8466-1650277615.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)",
+        "[Sa Pa]\nNằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác.",
+        "[Sa Pa > Sa Pa mùa nào đẹp]\n[ ![Sa-Pa-mua-he-2695-1650277614.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)\n[ ![Sa-Pa-2-9248-1650277614.png](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)\n[ ![san-tuyet-Sa-Pa-8336-1650277614.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)"
+      ],
+      "sources": [
+        {
+          "id": "news/article_04.md::chunk-7",
+          "retrieval_method": "dense",
+          "score": 0.7141397595405579,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-6",
+          "retrieval_method": "dense",
+          "score": 0.6289946436882019,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-25",
+          "retrieval_method": "dense",
+          "score": 0.6064141988754272,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-5",
+          "retrieval_method": "dense",
+          "score": 0.5895776748657227,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-8",
+          "retrieval_method": "dense",
+          "score": 0.5670928359031677,
+          "source": "article_04.md"
+        }
+      ],
+      "retrieval_seconds": 0.26769351959228516,
+      "generation_seconds": 1.976667881011963
+    },
+    "B_hybrid_rrf": {
+      "answer": "Mùa lúa chín ở Sa Pa diễn ra vào cuối hè [4] và kéo dài từ tháng 9 đến tháng 11 [1].\n\nMùa đông ở Sa Pa kéo dài từ tháng 12 đến tháng 2 năm sau. Nếu may mắn, du khách có thể \"săn\" tuyết và băng giá trên những đỉnh núi [1].",
+      "retrieved_contexts": [
+        "[Sa Pa > Sa Pa mùa nào đẹp]\nMùa thu kéo dài từ tháng 9 đến tháng 11, Sa Pa quyến rũ trong màu vàng óng ả của lúa chín và trời dần trở lạnh. Mùa đông đến từ tháng 12 đến tháng 2 năm sau, nếu may mắn bạn có thể \"săn\" tuyết, băng giá trên những đỉnh núi.\n[ ![Sa-Pa-mai-anh-dao-8046-1650277614.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)",
+        "[Sa Pa > Sa Pa mùa nào đẹp]\nSa Pa có khí hậu mát mẻ nên phù hợp với những chuyến du lịch quanh năm. Bạn chỉ cần tránh mùa mưa bão từ tháng 6 đến đầu tháng 8, bởi thời tiết cực đoan có thể gây lũ ống, lũ quét, sạt lở...\nTừ tháng 2 đến tháng 5, mùa xuân Sa Pa rực rỡ với trăm hoa khoe sắc như mai anh đào, đào, mận... Mùa hè từ tháng 6 đến tháng 8 là thời điểm khách du lịch đến Sa Pa để trốn nóng, ngắm những thửa ruộng bậc thang xanh mát.",
+        "[Sa Pa]\nNằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác.",
+        "[Sa Pa > Chơi đâu]\nẤn tượng nhất ở đây ngoài đời sống dân tộc địa phương còn là những thửa ruộng bậc thang trải rộng khắp các sườn đồi núi. Cuối hè là thời điểm lúa chín nhuộm vàng cả một vùng sơn cước. Vì thế nếu bạn có nhiều thời gian hãy dành một ngày ở đây để trải nghiệm nếp sống bản địa. Vé vào bản 70.000 đồng một người.\n[ ![Ta-Van-Sa-Pa-8466-1650277615.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)",
+        "[Sa Pa > Sa Pa mùa nào đẹp]\n[ ![Sa-Pa-mua-he-2695-1650277614.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)\n[ ![Sa-Pa-2-9248-1650277614.png](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)\n[ ![san-tuyet-Sa-Pa-8336-1650277614.jpg](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)](https://vnexpress.net/cam-nang-du-lich-sa-pa-4108517.html)"
+      ],
+      "sources": [
+        {
+          "id": "news/article_04.md::chunk-7",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-6",
+          "retrieval_method": "hybrid",
+          "score": 0.03200204813108039,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-5",
+          "retrieval_method": "hybrid",
+          "score": 0.031754032258064516,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-25",
+          "retrieval_method": "hybrid",
+          "score": 0.03125763125763126,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-8",
+          "retrieval_method": "hybrid",
+          "score": 0.030536130536130537,
+          "source": "article_04.md"
+        }
+      ],
+      "retrieval_seconds": 0.26465582847595215,
+      "generation_seconds": 1.7915692329406738
+    }
+  },
+  {
+    "case_index": 15,
+    "question": "Khi tự lái ô tô từ Hà Nội lên Sa Pa thì đi theo lộ trình đường cao tốc nào?",
+    "expected_answer": "Lộ trình là đi theo cao tốc Nội Bài - Lào Cai, sau đó rẽ sang quốc lộ 4D để lên Sa Pa với thời gian chạy xe khoảng 5 - 6 tiếng.",
+    "expected_context": "Nếu tự lái ôtô, bạn đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa. Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ.",
+    "A_dense_only": {
+      "answer": "Khi tự lái ô tô từ Hà Nội lên Sa Pa, bạn đi theo lộ trình cao tốc Nội Bài - Lào Cai, sau đó rẽ sang đường 4D để lên Sa Pa [Document 1].",
+      "retrieved_contexts": [
+        "[Sa Pa > Di chuyển]\nNếu tự lái ôtô, bạn đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa. Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ. Vào những dịp trời mưa lạnh, nhiều sương mù và đường trơn, bạn nên kiểm tra kỹ lốp xe, hệ thống phanh, đèn... trước khi khởi hành. Thời gian chạy xe khoảng 5 - 6 tiếng. Hãy khởi hành từ Hà Nội muộn nhất khoảng 12h30, để khi đến đèo lên Sa Pa, trời không quá tối.",
+        "[Sa Pa]\nNằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác.",
+        "[Hạ Long > Di chuyển]\nHướng di chuyển lý tưởng nhất là cao tốc Hà Nội - Hải Phòng, Hải Phòng - Hạ Long. Đường đẹp, song bạn cần chú ý quan sát biển báo, chạy đúng tốc độ, bật đèn tín hiệu khi chuyển làn và luôn thắt dây an toàn. Thời gian di chuyển khoảng 2,5 đến 3 tiếng.",
+        "[Sa Pa > Di chuyển]\nBạn có thể đặt xe limousine Hà Nội - Sa Pa hoặc xe khách từ bến Mỹ Đình với giá 230.000 - 350.000 đồng một người, tùy hạng ghế. Thời gian di chuyển khoảng 5 - 6 tiếng.",
+        "[Sa Pa > Chơi đâu]\n> _Lao Chải - Tả Van_\nTừ thị trấn bạn đi theo con đường dài 10 km tới Tả Van bằng xe máy, taxi hoặc trekking. Đường vào Lao Chải - [Tả Van](https://vnexpress.net/co-mot-ta-van-yen-binh-giua-sa-pa-dong-duc-3654649.html) nhỏ hẹp, hai bên phủ một màu xanh mát của ruộng bậc thang lúa và ngô. Tuy không còn hoang sơ, hẻo lánh, Lao Chải - Tả Van vẫn là một bản làng yên bình với nhiều dân tộc cư trú như Mông, Dao, Giáy..."
+      ],
+      "sources": [
+        {
+          "id": "news/article_04.md::chunk-11",
+          "retrieval_method": "dense",
+          "score": 0.704795241355896,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-5",
+          "retrieval_method": "dense",
+          "score": 0.57952880859375,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-10",
+          "retrieval_method": "dense",
+          "score": 0.5772480964660645,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-9",
+          "retrieval_method": "dense",
+          "score": 0.5543577075004578,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-24",
+          "retrieval_method": "dense",
+          "score": 0.5189661383628845,
+          "source": "article_04.md"
+        }
+      ],
+      "retrieval_seconds": 0.27707338333129883,
+      "generation_seconds": 1.598768711090088
+    },
+    "B_hybrid_rrf": {
+      "answer": "Khi tự lái ô tô từ Hà Nội lên Sa Pa, bạn đi theo lộ trình đường cao tốc Nội Bài - Lào Cai, sau đó rẽ sang đường 4D để lên Sa Pa [Document 1].",
+      "retrieved_contexts": [
+        "[Sa Pa > Di chuyển]\nNếu tự lái ôtô, bạn đi cao tốc Nội Bài - Lào Cai, tiếp đó rẽ sang đường 4D để lên Sa Pa. Đường dễ đi, nhưng bạn cần chú ý quan sát biển báo, chạy đúng tốc độ. Vào những dịp trời mưa lạnh, nhiều sương mù và đường trơn, bạn nên kiểm tra kỹ lốp xe, hệ thống phanh, đèn... trước khi khởi hành. Thời gian chạy xe khoảng 5 - 6 tiếng. Hãy khởi hành từ Hà Nội muộn nhất khoảng 12h30, để khi đến đèo lên Sa Pa, trời không quá tối.",
+        "[Sa Pa]\nNằm dưới chân dãy Hoàng Liên Sơn hùng vĩ và chỉ cách Hà Nội 5 - 6 giờ di chuyển bằng đường cao tốc, Sa Pa là điểm đến lý tưởng quanh năm. Ngoài những thửa ruộng bậc thang vào mùa lúa chín, Sa Pa còn hút khách nhờ vẻ đẹp của nhiều điểm đến khác.",
+        "[Hạ Long > Di chuyển]\nHướng di chuyển lý tưởng nhất là cao tốc Hà Nội - Hải Phòng, Hải Phòng - Hạ Long. Đường đẹp, song bạn cần chú ý quan sát biển báo, chạy đúng tốc độ, bật đèn tín hiệu khi chuyển làn và luôn thắt dây an toàn. Thời gian di chuyển khoảng 2,5 đến 3 tiếng.",
+        "[Sa Pa > Di chuyển]\nNếu đi tàu hỏa chạy, bạn chọn chuyến Hà Nội - Lào Cai, sau khoảng 7 - 9 tiếng di chuyển phải đón tiếp xe bus hoặc bắt taxi lên trung tâm Sa Pa. Giá vé tàu từ 160.000 đến 800.000 đồng tùy hạng ghế và loại tàu.",
+        "[Sa Pa > Chơi đâu]\n> _Cổng Trời_\nTừ trung tâm Sa Pa chạy men theo QL 4D khoảng 15 km, tới đoạn cao nhất của đèo Ô Quy Hồ bạn sẽ tới Cổng Trời. Đứng từ đây, bạn có thể ngắm nhìn toàn cảnh thung lũng rộng lớn phía dưới, những thửa ruộng bậc thang xen lẫn các cung đường quanh co uốn lượn. Hiện ở đây có khá nhiều công trình mới được xây lên như nhà hàng, quán cà phê, khách sạn... Cổng Trời thu vé 80.000 đồng một người, kèm một đồ uống.\n> _Đèo Ô Quy Hồ_"
+      ],
+      "sources": [
+        {
+          "id": "news/article_04.md::chunk-11",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-5",
+          "retrieval_method": "hybrid",
+          "score": 0.031754032258064516,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-10",
+          "retrieval_method": "hybrid",
+          "score": 0.03057889822595705,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-10",
+          "retrieval_method": "hybrid",
+          "score": 0.030536130536130537,
+          "source": "article_04.md"
+        },
+        {
+          "id": "news/article_04.md::chunk-36",
+          "retrieval_method": "hybrid",
+          "score": 0.02964426877470356,
+          "source": "article_04.md"
+        }
+      ],
+      "retrieval_seconds": 0.26970505714416504,
+      "generation_seconds": 1.8446664810180664
+    }
+  },
+  {
+    "case_index": 16,
+    "question": "Thành phố Hạ Long được phân chia thành hai khu vực nào bởi cầu Bãi Cháy?",
+    "expected_answer": "TP Hạ Long được phân chia bởi cầu Bãi Cháy thành hai khu vực là Bãi Cháy (tập trung nhiều khu du lịch, khách sạn, nhà hàng) và Hòn Gai (chủ yếu là khu dân cư).",
+    "expected_context": "TP Hạ Long phân chia thành hai khu vực là Bãi Cháy và Hòn Gai, bởi cầu Bãi Cháy. Phía Bãi Cháy tập trung nhiều khu du lịch, khách sạn, nhà hàng còn phía Hòn Gai chủ yếu là các khu dân cư.",
+    "A_dense_only": {
+      "answer": "Thành phố Hạ Long được phân chia thành hai khu vực là Bãi Cháy và Hòn Gai bởi cầu Bãi Cháy. [Document 1]",
+      "retrieved_contexts": [
+        "[Hạ Long > Khách sạn, homestay]\nTP Hạ Long phân chia thành hai khu vực là Bãi Cháy và Hòn Gai, bởi cầu Bãi Cháy. Phía Bãi Cháy tập trung nhiều khu du lịch, khách sạn, nhà hàng còn phía Hòn Gai chủ yếu là các khu dân cư.",
+        "[Hạ Long > Chơi gì]\n**Chợ đêm Hạ Long** chính là thiên đường mua sắm, ăn uống về đêm. Chợ nằm trên đại lộ Hạ Long Marine, Bãi Cháy, mở cửa từ 18h đến 24h. Chợ có hàng trăm gian hàng lớn nhỏ với đủ mặt hàng từ đồ lưu niệm, đặc sản, bánh kẹo cho đến trang sức, quần áo.\n![](https://i1-dulich.vnecdn.net/2022/07/18/bai-chay-jpeg-1972-1651932294-1522-1658113203.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=qHu2TUrHF3Vg-_IqklE7UA) Cầu Bãi Cháy về đêm. Ảnh: Minh Cương",
+        "[Hạ Long > Chơi gì]\n[![Cau-Koi-Sun-World-Halong-Compl-6847-2110](https://vnexpress.net/cam-nang-du-lich-ha-long-4457134.html)](https://vnexpress.net/cam-nang-du-lich-ha-long-4457134.html)\n**Phố cổ Bãi Cháy** nằm trên đường Hạ Long, Bãi Cháy. Đây là một trong những điểm đến phù hợp với những du khách thích check-in. Du khách tham quan, chụp ảnh miễn phí.",
+        "[Hạ Long > Chơi gì]\n**Đường bao biển Trần Quốc Nghiễn** nằm ở Hòn Gai dài 4,7 km, điểm đầu từ cầu Bài Thơ, điểm cuối nối với đường bao biển Hạ Long - Cẩm Phả, khánh thành tháng 5/2020.Đây là khu vực có khuôn viên phía biển rộng rãi, tạo điểm nhấn về cảnh quan cho thành phố, nơi người dân có thể tập thể dục, du khách ngắm vịnh Hạ Long, nhiều tiện ích như khu vui chơi, bãi đỗ xe, bãi tắm, khu thể dục thể thao...",
+        "[Hạ Long > Chơi gì]\nCác dịch vụ công cộng như tắm tráng, thay đồ, vệ sinh có thu phí 20.000 đồng một lượt. Ngoài Bãi Cháy, Hạ Long còn nhiều bãi tắm đẹp cho du khách khám phá như trên đảo Titop, Marina Bay Hạ Long, Ba Trái Đào, hoặc cã bãi ở Tuần Châu, Sun World...\n![](https://i1-dulich.vnecdn.net/2022/07/18/Bai-Chay-2-6996-1651932293-5989-1658113200.png?w=0&h=0&q=100&dpr=1&fit=crop&s=fSDeXTv0lSjsywnURJO-6Q) Bãi tắm Bãi Cháy."
+      ],
+      "sources": [
+        {
+          "id": "news/article_05.md::chunk-14",
+          "retrieval_method": "dense",
+          "score": 0.7369044423103333,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-43",
+          "retrieval_method": "dense",
+          "score": 0.5436645150184631,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-42",
+          "retrieval_method": "dense",
+          "score": 0.5417730212211609,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-37",
+          "retrieval_method": "dense",
+          "score": 0.5130969882011414,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-29",
+          "retrieval_method": "dense",
+          "score": 0.5034947991371155,
+          "source": "article_05.md"
+        }
+      ],
+      "retrieval_seconds": 0.2648777961730957,
+      "generation_seconds": 1.708791732788086
+    },
+    "B_hybrid_rrf": {
+      "answer": "Thành phố Hạ Long được phân chia thành hai khu vực là Bãi Cháy và Hòn Gai bởi cầu Bãi Cháy. [Document 1]",
+      "retrieved_contexts": [
+        "[Hạ Long > Khách sạn, homestay]\nTP Hạ Long phân chia thành hai khu vực là Bãi Cháy và Hòn Gai, bởi cầu Bãi Cháy. Phía Bãi Cháy tập trung nhiều khu du lịch, khách sạn, nhà hàng còn phía Hòn Gai chủ yếu là các khu dân cư.",
+        "[Hạ Long > Chơi gì]\n**Đường bao biển Trần Quốc Nghiễn** nằm ở Hòn Gai dài 4,7 km, điểm đầu từ cầu Bài Thơ, điểm cuối nối với đường bao biển Hạ Long - Cẩm Phả, khánh thành tháng 5/2020.Đây là khu vực có khuôn viên phía biển rộng rãi, tạo điểm nhấn về cảnh quan cho thành phố, nơi người dân có thể tập thể dục, du khách ngắm vịnh Hạ Long, nhiều tiện ích như khu vui chơi, bãi đỗ xe, bãi tắm, khu thể dục thể thao...",
+        "[Hạ Long > Chơi gì]\n[![Cau-Koi-Sun-World-Halong-Compl-6847-2110](https://vnexpress.net/cam-nang-du-lich-ha-long-4457134.html)](https://vnexpress.net/cam-nang-du-lich-ha-long-4457134.html)\n**Phố cổ Bãi Cháy** nằm trên đường Hạ Long, Bãi Cháy. Đây là một trong những điểm đến phù hợp với những du khách thích check-in. Du khách tham quan, chụp ảnh miễn phí.",
+        "[Hạ Long > Chơi gì]\n**Chợ đêm Hạ Long** chính là thiên đường mua sắm, ăn uống về đêm. Chợ nằm trên đại lộ Hạ Long Marine, Bãi Cháy, mở cửa từ 18h đến 24h. Chợ có hàng trăm gian hàng lớn nhỏ với đủ mặt hàng từ đồ lưu niệm, đặc sản, bánh kẹo cho đến trang sức, quần áo.\n![](https://i1-dulich.vnecdn.net/2022/07/18/bai-chay-jpeg-1972-1651932294-1522-1658113203.jpg?w=0&h=0&q=100&dpr=1&fit=crop&s=qHu2TUrHF3Vg-_IqklE7UA) Cầu Bãi Cháy về đêm. Ảnh: Minh Cương",
+        "[Hạ Long > Chơi gì]\nCác dịch vụ công cộng như tắm tráng, thay đồ, vệ sinh có thu phí 20.000 đồng một lượt. Ngoài Bãi Cháy, Hạ Long còn nhiều bãi tắm đẹp cho du khách khám phá như trên đảo Titop, Marina Bay Hạ Long, Ba Trái Đào, hoặc cã bãi ở Tuần Châu, Sun World...\n![](https://i1-dulich.vnecdn.net/2022/07/18/Bai-Chay-2-6996-1651932293-5989-1658113200.png?w=0&h=0&q=100&dpr=1&fit=crop&s=fSDeXTv0lSjsywnURJO-6Q) Bãi tắm Bãi Cháy."
+      ],
+      "sources": [
+        {
+          "id": "news/article_05.md::chunk-14",
+          "retrieval_method": "hybrid",
+          "score": 0.03278688524590164,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-37",
+          "retrieval_method": "hybrid",
+          "score": 0.031754032258064516,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-42",
+          "retrieval_method": "hybrid",
+          "score": 0.03125763125763126,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-43",
+          "retrieval_method": "hybrid",
+          "score": 0.0304147465437788,
+          "source": "article_05.md"
+        },
+        {
+          "id": "news/article_05.md::chunk-29",
+          "retrieval_method": "hybrid",
+          "score": 0.030090497737556562,
+          "source": "article_05.md"
+        }
+      ],
+      "retrieval_seconds": 0.26599693298339844,
+      "generation_seconds": 1.7576849460601807
+    }
+  }
+]
